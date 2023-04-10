@@ -408,7 +408,7 @@ export default {
         cargo: 'Asesor pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      }
+      },
       {
         nombre: 'Sandra Patricia Hoyos Sepúlveda',
         cargo: 'Diseñadora Instruccional',

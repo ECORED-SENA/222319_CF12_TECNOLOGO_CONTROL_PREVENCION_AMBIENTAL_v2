@@ -7,7 +7,13 @@
         span 10
       h1 Aprovechamiento, tratamiento y/o disposición final
 
-    p(data-aos="fade") Es necesario dejar consignado el tipo de aprovechamiento, tratamiento y/o disposición final que se utilizará para los residuos generados en la organización. Estos procesos deben ser seleccionados en función de las características de los residuos, las posibilidades de la organización, las alternativas existentes y las preferencias, en cumplimiento con la normatividad ambiental y sanitaria vigente, y propendiendo siempre por la opción o estrategia que genere un menor impacto ambiental. 
+
+    figure.mb-5(data-aos="fade")
+      img(src='@/assets/curso/temas/tema10/img.png' alt='Banner')
+
+    h4.t-green(data-aos="fade") Aprovechamiento, tratamiento y/o disposición final  
+
+    p(data-aos="fade") Es importante registrar el tipo de aprovechamiento, tratamiento y/o disposición final que se utilizará para los residuos generados en la organización. Estos procesos deben ser seleccionados en función de las características de los residuos, las posibilidades de la organización, las alternativas disponibles y las regulaciones ambientales y sanitarias aplicables, y siempre buscando la opción o estrategia que genere el menor impacto ambiental posible.
     p.mb-5(data-aos="fade") En la siguiente tabla se presentan algunas alternativas de manejo que pueden aplicarse a los residuos:
 
     .row.justify-content-center
@@ -34,10 +40,10 @@
                 td Reuso, reciclaje, etc.
               tr  
                 td Peligrosos: con algunas restricciones dependiendo de sus características
-                td Aprovechamiento, incineración, rellenos de seguridad, otras tecnologías de tratamiento (como términos, fisicoquímico, etc)
+                td Aprovechamiento, Incineración, Rellenos de seguridad, otras tecnologías de tratamiento (como térmicos, fisicoquímico, etc) 
               tr  
                 td Escombros
-                td Aprovechamiento, escombreras autorizadas
+                td Aprovechamiento
 
 
 </template>

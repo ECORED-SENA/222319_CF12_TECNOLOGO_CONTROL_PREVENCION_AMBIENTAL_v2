@@ -19,12 +19,12 @@
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema3/ico1.svg' alt='Icono')
-        p.text-center Prevención en la generación de residuos y reducción en el origen. 
+        p.text-center Prevención en la generación de residuos y Reducción en el origen. 
       .tarjeta.bg-green.p-4
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema3/ico2.svg' alt='Icono')
-        p.text-center Talleres de segregación de residuos, recolección, almacenamiento, simulacros de aplicación del plan de contingencia. 
+        p.text-center Talleres de segregación de residuos, recolección, almacenamiento, simulacros de aplicación del Plan de Contingencia. 
       .tarjeta.bg-green.p-4
         .row.justify-content-center.mb-3
           .col-6
@@ -58,8 +58,8 @@
       .col-md-6(data-aos="fade-right")
         .bloque-texto-c.bg-green.p-4
           i.fas.fa-quote-right.mb-3
-          p.mb-3 Estos procesos de formación y capacitación están orientados a fortalecer a la organización en aquellas actividades que presenten falencias. Es importante que quede el soporte o certificación de las actividades desarrolladas, que incluya como mínimo los siguientes elementos: el tema abordado, los listados y firmas de las personas asistentes, la intensidad de la capacitación y la fecha de realización, adicional puede agregar las evidencias como fotografías. Manual para el manejo integral de residuos sólidos en el Valle de Aburrá. 
-          h5.mb-0 Área metropolitana del Valle de Aburrá (2016, p. 17) 
+          p.mb-3 Estos procesos de formación y capacitación están orientados a fortalecer a la organización en aquellas actividades que presenten falencias. Es importante que quede el soporte o certificación de las actividades desarrolladas, que incluya como mínimo los siguientes elementos: el tema abordado, los listados y firmas de las personas asistentes, la intensidad de la capacitación y la fecha de realización, adicional puede agregar las evidencias como fotografías. 
+          h5.mb-0 (Área metropolitana del Valle de Aburrá, 2016, p. 17) 
       .col-md-6(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema3/img2.jpg' alt='Imagen decorativa')
 

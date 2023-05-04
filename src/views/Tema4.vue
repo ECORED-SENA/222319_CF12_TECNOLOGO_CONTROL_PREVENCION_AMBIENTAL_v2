@@ -46,7 +46,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 4] Estrategias de minimización
+          p.mb-0 #[b Figura 3] Estrategias de minimización
         img(src='@/assets/curso/temas/tema4/fig4.svg', alt='Estrategias de minimización')
         figcaption.mt-2 
           p.mb-0 Nota. Manual para el manejo integral de residuos sólidos en el Valle de Aburrá. Área metropolitana del Valle de Aburrá (2016, p. 18)
@@ -59,7 +59,7 @@
         p.mb-0 Para los generadores, la implementación de estrategias de gestión orientadas a la prevención y minimización de los residuos representa beneficios económicos, ambientales, legales y de imagen pública, entre otros. Sin embargo, debe haber un compromiso de la gerencia o de la dirección de la organización frente a la gestión de los residuos, para garantizar que el programa tenga éxito, reconociendo que su implementación reducirá costos y mejorará su actuación ambiental, expresando su adopción a través de la política ambiental de la empresa, organización o institución. 
     
 
-    p.mb-0(data-aos="fade") Antes de tomar la decisión sobre la implementación de una o varias alternativas identificadas, se recomienda evaluar su factibilidad utilizando criterios técnicos, legales, financieros y ambientales. Manual para el manejo integral de residuos sólidos en el Valle de Aburrá. Área metropolitana del Valle de Aburrá (2016, p.18)
+    p.mb-0(data-aos="fade") Antes de tomar la decisión sobre la implementación de una o varias alternativas identificadas, se recomienda evaluar su factibilidad utilizando criterios técnicos, legales, financieros y ambientales. (Área metropolitana del Valle de Aburrá, 2016, p.18)
     p.mb-4(data-aos="fade") Para estas actividades en las organizaciones generan estrategias de prevención y minimización llamados programas o por medio de campañas, si por medio de programas ambientales muchas veces llevan objetivo, meta e indicador específico para saber la eficacia del programa, como:
     
     .row.mb-4

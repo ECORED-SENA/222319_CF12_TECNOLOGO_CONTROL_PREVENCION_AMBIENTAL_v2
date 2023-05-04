@@ -7,25 +7,21 @@
         span 9
       h1 Seguridad y Salud en el Trabajo
 
-    .row.align-items-center
+    .row.align-items-center.mb-4
       .col-md-4.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema9/img.jpg', alt='Imagen decorativa')
       .col-md-8.mb-4(data-aos="fade-left")
-        p Se deberán incluir las medidas de higiene y seguridad que permitirán proteger la salud del trabajador y prevenir riesgos que atenten contra su integridad. Así mismo, estas medidas contemplan aspectos de capacitación en procedimientos de bioseguridad y el trabajo, higiene y protección personal, entre otras y son complementarias a las condiciones del ambiente de trabajo, tales como iluminación, ventilación, ergonomía, etc.
+        p Se deben incluir medidas de higiene y seguridad para proteger la salud del trabajador y prevenir riesgos que puedan afectar su integridad. Estas medidas incluyen la capacitación en procedimientos de bioseguridad, higiene y protección personal, entre otros aspectos, y complementan las condiciones del ambiente de trabajo, como la iluminación, ventilación, ergonomía, etc.
         .bloque-texto-c.bg-blue.p-4
           i.fas.fa-quote-right.mb-3
-          p.mb-3 Es importante tener en cuenta que todo empleador que tenga a su cargo trabajadores que participen en la manipulación de residuos debe cumplir con lo estipulado en la normatividad vigente sobre seguridad y salud en el trabajo. 
-          h5.mb-0 Área Metropolitana de Bucaramanga (2010, p. 9)
+          p.mb-3 Es importante destacar que todo empleador que tenga trabajadores que manipulen residuos debe cumplir con la normativa vigente en materia de seguridad y salud en el trabajo, según lo establecido por el Área Metropolitana de Bucaramanga en el año 2010 (p. 9).
 
 
-    Separador
-
-    #t_9_1.titulo-segundo.color-acento-contenido(data-aos="fade")
-      h2 9.1 Elementos de protección personal para el manejo de residuos
+    h3.subt.text-white.mb-4(data-aos="fade") Elementos de protección personal para el manejo de residuos
 
     p.mb-4(data-aos="fade") Es obligatorio el uso de elementos de protección personal para las actividades de recolección de residuos y almacenamiento de residuos por el personal que realiza estas labores.
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-md-10(data-aos="fade")
         .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Tabla 5] Elementos de protección según actividad en residuos
@@ -67,13 +63,10 @@
                   p.mb-0.text-small Universidad industrial de Santander (2009) Guía de manejo de residuos peligrosos en la sección servicios integrales de salud y desarrollo psicosocial.p.74  
 
 
-    Separador
+    h3.subt.text-white.mb-4(data-aos="fade") Plan de contingencia
 
-    #t_9_2.titulo-segundo.color-acento-contenido(data-aos="fade")
-      h2 9.2 Plan de contingencia
-
-    p(data-aos="fade") Todo Plan de Contingencias se debe basar en los potenciales escenarios de riesgo del sistema, que deben obtenerse del análisis de vulnerabilidad realizado, de acuerdo con las amenazas que pueden afectar a la organización durante su funcionamiento.  
-    p.mb-4(data-aos="fade") El Plan de Contingencias debe incluir procedimientos generales de atención de emergencias y procedimientos específicos para cada escenario de riesgo identificado. 
+    p(data-aos="fade") Todo Plan de Contingencias se debe basar en los potenciales escenarios de riesgo del sistema, que deben obtenerse del análisis de vulnerabilidad realizado, de acuerdo con las amenazas que pueden afectar a la organización durante su funcionamiento. 
+    p.mb-4(data-aos="fade") El Plan de contingencia debe incluir procedimientos generales de atención de emergencias y procedimientos específicos para cada escenario de riesgo identificado. 
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10.bg-blue2.py-4
@@ -81,11 +74,11 @@
           .col-md-3.mb-3
             img(src='@/assets/curso/temas/tema9/img2.svg', alt='Imagen decorativa')
           .col-md-9.mb-3
-            p La elaboración del Plan de Contingencias debe seguir los siguientes parámetros: 
+            p La elaboración del Plan de contingencia debe seguir los siguientes parámetros: 
             ul.lista-ul--color.color-primario.ps-3.ps-md-4
               li
                 i.fas.fa-check
-                | Análisis de riesgo,
+                | Análisis de riesgo
               li
                 i.fas.fa-check
                 | Identificación y caracterización de peligros y amenazas
@@ -103,21 +96,22 @@
                 | Puesta en marcha del Plan de Emergencias
               li
                 i.fas.fa-check
-                | Responsables de la elaboración y puesta en marcha del Plan de Contingencias.
-        p.px-3.mb-0 Guía para el manejo integral de residuos. Universidad Pontificia Bolivariana y Área metropolitana del Valle de Aburrá (2008, p. 55) 
+                | Responsables de la elaboración y puesta en marcha del plan de contingencia.
 
 
-    h3.subt.text-white.mb-4(data-aos="fade") Análisis de riesgos
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema9/img3.jpg')})`}")
       .bloque-texto-g__texto.p-5
+        h5 Análisis de riesgos
+        br
+        br
         p.mb-0 El análisis de riesgos tiene por objetivo identificar y evaluar cuales son aquellos eventos o condiciones que pueden llegar a ocasionar una emergencia. Este análisis se convierte en una herramienta para establecer las medidas de prevención y control de los riesgos asociados a la actividad de la organización, al entorno físico y al entorno social en el cual desarrolla sus funciones. El análisis de riesgos está conformado por las etapas de identificación y caracterización de peligros y amenazas de carácter natural o antrópico, el análisis de vulnerabilidad por amenaza, la evaluación del riesgo y la identificación de escenarios de riesgo.
 
 
-    h3.subt.text-white.mb-4(data-aos="fade") Identificación y caracterización de los peligros y las amenazas
-    p(data-aos="fade") Se entiende por peligro, una fuente o situación con potencial de daño en términos de lesión o enfermedad, daño a la propiedad, al ambiente de trabajo, al medio ambiente o una combinación de éstos, y por amenaza, la probabilidad de que un fenómeno de origen natural o humano, eventualmente, cause daño y genere pérdidas, y que se produzca en un determinado tiempo y lugar.
+    h3.t-green.mb-4(data-aos="fade") Identificación y caracterización de los peligros y las amenazas
+    p(data-aos="fade") Se entiende por peligro a una fuente o situación que tiene el potencial de causar daño en términos de lesión o enfermedad, daño a la propiedad, al ambiente de trabajo, al medio ambiente o una combinación de estos. Por otro lado, la amenaza se refiere a la probabilidad de que un fenómeno de origen natural o humano cause daño y genere pérdidas en un tiempo y lugar determinado.
 
     .row.align-items-center
       .col-md-7.mb-4(data-aos="fade-right")
@@ -134,7 +128,7 @@
     .tabla-a.tema9-2.text-center.mb-5
       table
         caption.mt-3
-          p.mb-0 Nota. Guía para elaboración y presentación del plan de gestión integral de residuos hospitalarios y similares-pgirhs aplicado a micro generadores. Área Metropolitana de Bucaramanga (2010, p. 57) 
+          p.mb-0 Nota. Guía para elaboración y presentación del plan de gestión integral de residuos hospitalarios y similares- aplicado a micro generadores. Área Metropolitana de Bucaramanga (2010, p. 57) 
         thead
           tr.bg-green4
             th No.
@@ -325,12 +319,11 @@
             td 
             td 
 
-    h3.subt.text-white.mb-4(data-aos="fade") Análisis de vulnerabilidad por amenaza
+    h3.t-green.mb-4(data-aos="fade") Análisis de vulnerabilidad por amenaza
 
     .row.align-items-center
       .col-md-7.mb-4(data-aos="fade-right")
-        p Es el proceso mediante el cual se determina el nivel de exposición y predisposición a la pérdida de un elemento o grupo de elementos, ante una amenaza específica. El grado de vulnerabilidad que tiene una empresa frente a una amenaza específica está directamente relacionado con la organización interna que ésta tiene para prevenir o controlar aquellos factores que originan el peligro, al igual que su preparación 
-        p.bg-green.p-4 para minimizar las consecuencias, una vez sucedan los hechos. El Reglamento Técnico del Sector Agua Potable y Saneamiento Básico (RAS) en su Título G, establece una metodología para la realización de un análisis de vulnerabilidad. 
+        p El análisis de vulnerabilidad es el proceso por el cual se determina el nivel de exposición y predisposición a la pérdida de un elemento o grupo de elementos frente a una amenaza específica. El grado de vulnerabilidad de una empresa ante una amenaza determinada está directamente relacionado con su capacidad interna para prevenir o controlar los factores que originan el peligro, así como con su preparación para minimizar las consecuencias en caso de que ocurra un evento adverso.
       .col-md-5.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema9/img5.jpg', alt='Imagen decorativa')
 
@@ -400,11 +393,11 @@
 
 
 
-    h3.subt.text-white.mb-4(data-aos="fade") Definición de los escenarios de riesgo
-    p.bg-green8.p-4.mb-5(data-aos="fade")  Se entiende como la descripción de un futuro posible y de la trayectoria asociada a él. El escenario de riesgo es la interacción de los diferentes factores de riesgo (amenaza y vulnerabilidad) en un territorio y en un momento dado. Debe describir y permitir la identificación del tipo de daño y pérdidas que pueden generarse en caso de presentarse un evento peligroso en unas condiciones dadas de vulnerabilidad.
+    h3.t-green.mb-4(data-aos="fade") Definición de los escenarios de riesgo
+    p.bg-green8.p-4.mb-5(data-aos="fade") Se entiende como la descripción de un futuro posible y de la trayectoria asociada a él. El escenario de riesgo es la interacción de los diferentes factores de riesgo (amenaza y vulnerabilidad) en un territorio y en un momento dado. Debe describir y permitir la identificación del tipo de daño y pérdidas que pueden generarse en caso de presentarse un evento peligroso en unas condiciones dadas de vulnerabilidad.
 
 
-    h3.subt.text-white.mb-4(data-aos="fade") Organización del Plan de Emergencias
+    h3.t-green.mb-4(data-aos="fade") Organización del Plan de Emergencias
     p.mb-4(data-aos="fade") Como se mencionó anteriormente, el análisis de riesgos es un requisito para la organización del Plan de Emergencias, ya que permite identificar los escenarios de riesgo. De esta manera, se facilita la proyección adecuada de las siguientes acciones:
 
     .row.align-items-center.mb-md-3
@@ -433,11 +426,11 @@
                 | Definición de procedimientos contra derrames, fugas e incendios.
 
 
-    h3.subt.text-white.mb-4(data-aos="fade") Puesta en marcha y mantenimiento del Plan de Emergencias
+    h3.t-green(data-aos="fade") Puesta en marcha y mantenimiento del Plan de Emergencias
 
     .row.align-items-center.mb-md-3
       .col-md-6.mb-4(data-aos="fade-right")
-        p El éxito de una operación de atención de eventos mayores depende de las acciones de respuesta previstas y desarrolladas en el Plan de Emergencias. De esta manera, para lograr los resultados esperados en el plan durante la ocurrencia de situaciones de emergencia, es necesario divulgarlo debidamente dentro de la organización, e integrarlo a otros planes locales y regionales, así como a otras entidades que deberán actuar conjuntamente en la respuesta a la emergencia. Además de la debida divulgación, la implementación del Plan está relacionada con la disponibilidad de los recursos humanos, además de los materiales necesarios y compatibles con la gravedad de los posibles eventos que se atenderán. 
+        p El éxito de una operación de atención de eventos mayores depende de las acciones de respuesta previstas y desarrolladas en el Plan de Emergencias. De esta manera, para lograr los resultados esperados en el plan durante la ocurrencia de situaciones de emergencia, es necesario divulgarlo debidamente dentro de la organización, e integrarlo a otros planes locales y regionales, así como a otras entidades que deberán actuar conjuntamente en la respuesta a la emergencia. Además de la debida divulgación, la implementación del Plan está relacionada con la disponibilidad de los recursos humanos, además de los materiales necesarios y compatibles con la gravedad de los posibles eventos que se atenderán.
       .col-md-6.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema9/img9.jpg', alt='Imagen decorativa')
 

@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Gestionar integralmente el manejo de residuos según normativa vigente',
     descripcionCurso:
-      'Se orientará en la realización del plan de gestión integral de residuos con relación a la gestión, diseñando estrategias de manejo de residuos sólidos necesarias según el análisis del diagnóstico de residuos, para su adecuada minimización de residuos, aprovechamiento, tratamiento y disposición final de estos en atención a la normativa y en pro de un desarrollo sostenible en la organización.',
+      'El propósito de este componente es brindar orientación para la elaboración de un plan de gestión integral de residuos. Esto incluirá la gestión y diseño de estrategias para el manejo de residuos sólidos, basadas en el análisis del diagnóstico de residuos, para lograr su adecuada minimización, aprovechamiento, tratamiento y disposición final; en cumplimiento con la normativa. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
@@ -60,21 +60,6 @@ export default {
             titulo: 'Características de los recipientes             ',
             hash: 't_5_2',
           },
-          {
-            numero: '5.3',
-            titulo: 'Bolsas',
-            hash: 't_5_3',
-          },
-          {
-            numero: '5.4',
-            titulo: 'Recipientes para residuos cortopunzantes',
-            hash: 't_5_4',
-          },
-          {
-            numero: '5.5',
-            titulo: 'Rotulación',
-            hash: 't_5_5',
-          },
         ],
       },
       {
@@ -94,43 +79,12 @@ export default {
         numero: '8',
         titulo: 'Control de plagas y técnicas de desinfección',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '8.1',
-            titulo: 'Control de plagas',
-            hash: 't_8_1',
-          },
-          {
-            numero: '8.2',
-            titulo: 'Técnicas de desinfección',
-            hash: 't_8_2',
-          },
-          {
-            numero: '8.3',
-            titulo:
-              'Descontaminación y limpieza cuarto de almacenamiento de residuos',
-            hash: 't_8_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema9',
         numero: '9',
         titulo: 'Seguridad y Salud en el Trabajo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '9.1',
-            titulo:
-              'Elementos de protección personal para el manejo de residuos',
-            hash: 't_9_1',
-          },
-          {
-            numero: '9.2',
-            titulo: 'Plan de contingencia',
-            hash: 't_9_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema10',
@@ -140,11 +94,12 @@ export default {
       },
     ],
     subMenu: [
-      /*{
+      {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
-      },*/
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',

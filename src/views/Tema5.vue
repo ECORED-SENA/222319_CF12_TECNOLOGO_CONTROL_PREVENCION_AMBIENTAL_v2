@@ -8,7 +8,7 @@
       h1 Segregación en la fuente
 
 
-    p.mb-4(data-aos="fade") Se requiere establecer el código de colores para la segregación de residuos y definir la cantidad, capacidad y estado de los recipientes usados para dicha segregación.  
+    p.mb-4(data-aos="fade") Se requiere establecer el código de colores para la segregación de residuos y definir la cantidad, capacidad y estado de los recipientes usados para dicha segregación.
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -153,11 +153,11 @@
         img(src='@/assets/curso/temas/tema5/img2.jpg' alt='Imagen decorativa')
       .col-md-6(data-aos="fade-left")
         .bg-blue2.h-100.p-4
-          p Es importante aclarar que en los puntos de separación no es necesaria la ubicación de todos los recipientes acorde al código de colores, ya que su ubicación y cantidad debe obedecer a los aspectos identificados durante el diagnóstico, de manera que se distribuyen acorde a los residuos generados en cada sección. 
+          p Es importante aclarar que en los puntos de separación no es necesaria la ubicación de todos los recipientes acorde al código de colores, ya que su ubicación y cantidad debe obedecer a los aspectos identificados durante el diagnóstico, de manera que se distribuyen acorde a los residuos generados en cada sección.
           .bloque-texto-c.bg-blue.p-4
             i.fas.fa-quote-right.mb-3
-            p.mb-3 El envasado, embalado, rotulado y etiquetado debe estar conforme a la normatividad vigente, principalmente cuando se trate de residuos peligrosos. Manual para el manejo integral de residuos sólidos en el Valle de Aburrá. 
-            h5.mb-0 Área metropolitana del Valle de Aburrá (2016, p.20)
+            p.mb-3 El envasado, embalado, rotulado y etiquetado debe estar conforme a la normatividad vigente, principalmente cuando se trate de residuos peligrosos. 
+            h5.mb-0 (Área metropolitana del Valle de Aburrá, 2016, p.20)
 
 
     Separador
@@ -165,7 +165,7 @@
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 5.1 Código de colores en los recipientes         
 
-    p.mb-4(data-aos="fade") Para implementar la separación de residuos, se utiliza un código de colores en los recipientes para su identificación, usualmente este código de colores se rige a nivel territorial actualmente se cuenta con una norma regulatoria que es la Resolución No. 2184 de 2019 ARTÍCULO 4o. Adáptese en el territorio nacional, el código de colores para la separación de residuos sólidos en la fuente, así:
+    p.mb-4(data-aos="fade") Para implementar la separación de residuos, se utiliza un código de colores en los recipientes para su identificación, usualmente este código de colores se rige a nivel territorial, actualmente se cuenta con una norma regulatoria que es la Resolución No. 2184 de 2019 ARTÍCULO 4o. Adáptese en el territorio nacional, el código de colores para la separación de residuos sólidos en la fuente es así:
 
     .row.justify-content-center.mb-4
       .row.col-md-10.bg-yellow2.p-4.align-items-center(data-aos="fade-down")
@@ -180,7 +180,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span b
-              | Color Blanco para depositar los residuos aprovechables como plástico, vidrio, metales, multicapa, papel y cartón.
+              | Color blanco para depositar los residuos aprovechables como plástico, vidrio, metales, multicapa, papel y cartón.
             li 
               .lista-ol--cuadro__vineta
                 span c
@@ -189,21 +189,21 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 5] Código de colores para los residuos a nivel nacional
+          p.mb-0 #[b Figura 4] Código de colores para los residuos a nivel nacional
       .col-md-7
         img(src='@/assets/curso/temas/tema5/fig5.png', alt='Código de colores para los residuos a nivel nacional')
         figcaption.mt-2
           p.mb-0 Nota. El Gobierno unifica el código de colores para la separación de residuos en la fuente a nivel nacional. Minambiente (2020)
       .col-md-3
         .bg-green8.p-4.h-100.text-small
-          p Algunas empresas tienen como guía la GTC 24 de 2009 para sus procesos de gestión de residuos, ya que algunos residuos no se disponen al servicio público de aseo lo cual le da la opción de clasificar de manera más específica los residuos sobre todos los de reciclaje y entregarlos desde la fuente más separados a gestores ambientales de reciclaje y tratamiento de residuos.
+          p Algunas empresas tienen como guía la GTC 24 de 2009 para sus procesos de gestión de residuos, ya que algunos residuos no se disponen al servicio público de aseo, lo cual le da la opción de clasificar de manera más específica los residuos, sobre todo los de reciclaje y entregarlos desde la fuente a gestores ambientales de reciclaje y tratamiento de residuos.
           p.mb-0 Esta GTC 24 no es obligatoria es opcional, algunas empresas también por elección utilizan solo algunos colores de esta GTC 24.
 
 
     .row.justify-content-center.mb-5
       .col-md-10(data-aos="fade")
         .titulo-sexto.color-acento-contenido
-            p.mb-0 #[b Figura 6] Código de colores GTC24
+            p.mb-0 #[b Figura 5] Código de colores GTC24
       .col-md-10.bg-gray.py-3(data-aos="fade-down")
         .tabla-a.tema5
           table
@@ -257,15 +257,17 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 7] Código de colores propuesto por la GTC 24
+          p.mb-0 #[b Figura 6] Código de colores propuesto por la GTC 24
         img(src='@/assets/curso/temas/tema5/fig7.png', alt='Código de colores propuesto por la GTC 24')
         figcaption.bg-gray.mt-2
           p.mb-0 Nota. Guía para la gestión de residuos peligrosos. Universidad Pontificia Bolivariana. (2011, p.63) 
 
+    p.mb-4(data-aos="fade") Para las entidades de salud si es obligatorio el código de colores que delegue el Manual para la Gestión Integral de Residuos Generados en la Atención en Salud y otras actividades, y se dictan otras disposiciones
+
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 8] Código de colores en el gremio de la salud
+          p.mb-0 #[b Figura 7] Código de colores en el gremio de la salud
         img(src='@/assets/curso/temas/tema5/fig8.svg', alt='Código de colores en el gremio de la salud')
         figcaption.bg-gray.mt-2
           p.mb-0 Nota. Resolución en proyecto 2 por la cual se adopta el manual para la gestión integral de residuos generados en la atención en salud y otras actividades, y se dictan otras disposiciones. Ministerio de salud y protección social (2020, p.10)  
@@ -276,8 +278,12 @@
       .col-md-5.mb-4(data-aos="fade-left")
         p Para la identificación y clasificación de las características de peligrosidad de residuos diferentes a riesgo biológico o infeccioso se aplicará lo establecido en el artículo 2.2.6.1.2.3 y el Anexo III del Decreto 1076 de 2015 o la norma que lo modifique o sustituya.
         p.mb-0 Actualmente se identifican con color rojo y se coloca el nombre específico del residuo químico en el rótulo.
-        p.mb-0 El color rojo sigue utilizándose a nivel nacional para identificar un residuo peligroso tanto infeccioso como químico.
-        p.mb-0 El color violeta sigue utilizándose a nivel nacional para identificar un residuo radioactivo.
+        p.mb-0 
+          span.t-red El color rojo 
+          | sigue utilizándose a nivel nacional para identificar un residuo peligroso tanto infeccioso como químico.
+        p.mb-0 
+          span.t-violet El color violeta 
+          | sigue utilizándose a nivel nacional para identificar un residuo radioactivo.
       .col-md-10.bg-yellow.p-4(data-aos="fade-down")
         .row.align-items-center
           .col-md-1.mb-3.mb-md-0
@@ -293,7 +299,7 @@
       h2 5.2 Características de los recipientes
 
     p(data-aos="fade") Los tipos y capacidades de los recipientes dependen de las características y tipos de residuos, el tipo y frecuencia del sistema de recolección y del espacio disponible para ellos.
-    p.mb-4(data-aos="fade") Frecuentemente se emplean bolsas, contenedores, canecas, cajas, entre otros. Sin embargo, se debe tener en cuenta lo siguiente, para su selección:
+    p.mb-4(data-aos="fade") Frecuentemente se emplean bolsas, contenedores, canecas, cajas, entre otros. Sin embargo, se debe tener en cuenta lo siguiente:
   
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10.bg-blue2.p-4.p-md-5
@@ -317,31 +323,24 @@
             img(src='@/assets/curso/temas/tema5/5-2-ico4.svg', alt='Icono') 
           .col-md-11
             p.mb-0 #[b Los recipientes tanto desechables como retornables deberían:] proporcionar seguridad e higiene, permitir el aislamiento de los residuos con el entorno, tener una capacidad y volumen proporcional al peso, volumen y características de los residuos contenidos, ser de material resistente, preferiblemente reciclable, reutilizable o ambos y facilitar su cierre o amarre.
-        .row.align-items-center.pt-4
-          .col-md-1.mb-3.mb-md-0
-            img(src='@/assets/curso/temas/tema5/5-2-ico5.svg', alt='Icono') 
-          .col-md-11
-            p.mb-0 #[b En instalaciones multiusuario,] comerciales e industriales pueden emplearse grandes contenedores de acopio.
+        
 
-    p(data-aos="fade") GTC 24- Gestión Ambiental Residuos sólidos Guía para la separación en la fuente. ICONTEC (2009, p.8)
-    p.mb-5(data-aos="fade") Los recipientes para residuos infecciosos deben ser del tipo tapa y pedal y se identifican sus canecas con el logo de infeccioso, si es químico algunas veces colocan el logo de una calavera y dicen el tipo de químico que se envasa. 
+    p.mb-5(data-aos="fade") Los recipientes para residuos infecciosos deben ser del tipo tapa y pedal, las canecas se identifican con el logo de infeccioso, si es químico algunas veces colocan el logo de una calavera y dicen el tipo de químico que se envasa. 
 
-    .row.justify-content-center.mb-5(data-aos="fade-down")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 9] Imagen de infeccioso
+          p.mb-0 #[b Figura 8] Imagen de infeccioso
       .col-md-6
         img(src='@/assets/curso/temas/tema5/fig9.svg', alt='Imagen de infeccioso')
-        figcaption.mt-2
-          p.mb-0 Nota. Plan de gestión Integral de Residuos. Universidad Industrial de Santander (2013, p.11) 
       .col-md-4
-        .bg-blue2.p-4.h-100
+        .bg-blue2.p-4
           p Los recipientes para residuos peligrosos obligatoriamente deben tener tapa, con buen ajuste, bordes redondeados y boca ancha para facilitar su vaciado. Construidos en forma tal que, estando cerrados o tapados, no permitan la entrada de agua, insectos o roedores, ni el escape de líquidos por sus paredes o por el fondo.
-          p Los residuos reciclables usan el logo de reciclaje en los recipientes y para ordinarios usan algunas veces el logo circular, pero no es necesario el logo en ordinarios. 
 
+    p.mb-4(data-aos="fade") Los residuos reciclables usan el logo de reciclaje en los recipientes y para ordinarios usan algunas veces el logo circular, pero no es necesario el logo en ordinarios. 
 
     .titulo-sexto.color-acento-contenido(data-aos="fade")
-      p.mb-0 #[b Figura 10] Logos  
+      p.mb-0 #[b Figura 9] Logos  
     .row(data-aos="fade-down")
       .col-md-3
         .bg-gray2.p-4.h-100
@@ -411,45 +410,30 @@
             li.mb-0
               i.fas.fa-check
               | Residuos contaminados que generen contagios o infecciones
-    figcaption.mt-3
+    figcaption.mt-3.mb-5
       p.mb-0 Nota. La problemática principal del manejo de las basuras. Alcaldía Santiago de Cali (2015) 
 
 
 
-    Separador
-
-    #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade")
-      h2 5.3 Bolsas
+    h3.subt.text-white.mb-4(data-aos="fade") Bolsas
 
     .row.bg-blue2.align-items-center.p-4.mx-md-1(data-aos="fade-down")
       .col-md-5.mb-4.mb-md-0
         img(src='@/assets/curso/temas/tema5/img4.png' alt='Bolsas')
       .col-md-7
-        ul.lista-ul--color.color-primario
-          li
-            i.fas.fa-check
-            | La resistencia de las bolsas debe soportar la tensión ejercida por los residuos contenidos y por su manipulación.
-          li
-            i.fas.fa-check
-            | El material plástico de las bolsas para residuos infecciosos, debe ser polietileno de alta densidad, o el material que se determine necesario para la desactivación o el tratamiento de estos residuos.
-          li
-            i.fas.fa-check
-            | La resistencia de cada una de las bolsas no debe ser inferior a 20 kg.
-          li
-            i.fas.fa-check
-            | Los colores de bolsas seguirán el código establecido por la organización y/o entidad territorial, serán de alta densidad y calibre mínimo de 1.4 para bolsas pequeñas y de 1.6 milésimas de pulgada para bolsas grandes, suficiente para evitar el derrame durante el almacenamiento en el lugar de generación, recolección, movimiento interno, almacenamiento central y disposición final de los residuos que contengan.
-    figcaption.mt-2
+        p.mb-0 La resistencia de las bolsas debe soportar la tensión ejercida por los residuos contenidos y por su manipulación. 
+        p.mb-0 El material plástico de las bolsas para residuos infecciosos, debe ser polietileno de alta densidad, o el material que se determine necesario para la desactivación o el tratamiento de estos residuos. 
+        p La resistencia de cada una de las bolsas no debe ser inferior a 20 kg.
+        p Los colores de bolsas seguirán el código establecido por la organización y/o entidad territorial, serán de alta densidad y calibre mínimo de 1.4 para bolsas pequeñas y de 1.6 milésimas de pulgada para bolsas grandes, suficiente para evitar el derrame durante el almacenamiento en el lugar de generación, recolección, movimiento interno, almacenamiento central y disposición final de los residuos que contengan.
+    figcaption.mt-2.mb-5
       p.mb-0 Nota. Plan de gestión Integral de Residuos. Universidad Industrial de Santander (2013, p. 12) 
 
 
-    Separador
-
-    #t_5_4.titulo-segundo.color-acento-contenido(data-aos="fade")
-      h2 5.4 Recipientes para residuos cortopunzantes
+    h3.subt.text-white.mb-4(data-aos="fade") Recipientes para residuos cortopunzantes
 
     p(data-aos="fade") Los recipientes para residuos cortopunzantes son desechables y deben tener las siguientes características:
 
-    .row.bg-blue2.align-items-center.justify-content-evenly.p-4.mx-md-1(data-aos="fade-down")
+    .row.bg-blue2.align-items-center.justify-content-evenly.p-4.mx-md-1.mb-5(data-aos="fade-down")
       .col-md-9
         ul.lista-ul--color.color-primario
           li
@@ -470,21 +454,18 @@
           li
             i.fas.fa-check
             | Ser resistentes, desechables y de paredes gruesa.
-      .col-md-2.mb-4.mb-md-0
-        img(src='@/assets/curso/temas/tema5/img5.png' alt='Recipientes para residuos cortopunzantes')
-    figcaption.mt-2
-      p.mb-0 Nota. Plan de gestión Integral de Residuos. Universidad Industrial de Santander (2013, p.14) 
+      .col-md-3.mb-4.mb-md-0
+        .titulo-sexto.color-acento-contenido(data-aos="fade")
+          p.mb-0 #[b Figura 11] Recipiente rígido 
+        img.px-md-5(src='@/assets/curso/temas/tema5/img5.png' alt='Recipientes para residuos cortopunzantes')
+    
 
 
-
-    Separador
-
-    #t_5_5.titulo-segundo.color-acento-contenido(data-aos="fade")
-      h2 5.5 Rotulación
+    h3.subt.text-white.mb-4(data-aos="fade") Rotulación
 
     p(data-aos="fade") Los recipientes deben ir rotulados con el nombre del generador, departamento, área o servicio al que pertenecen, el nombre del residuo que contienen, fecha de recolección y el símbolo de peligrosidad si es residuo peligroso.
 
-    .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="fade-down")
+    .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img6.png')})`}")
       .bloque-texto-g__texto.p-4
@@ -492,27 +473,23 @@
           br
           br
           | El etiquetado tiene como objetivo principal identificar el residuo peligroso y reconocer la naturaleza del peligro que representa, alertando a las personas involucradas en el transporte o manejo sobre las medidas de precaución y prohibiciones. La etiqueta que se utilizará para la identificación de los residuos puede ser de diferentes estilos.
-    figcaption.mt-2.mb-5
-      p.mb-0 Nota. Material para la recogida selectiva bidones. Universidad de Cádiz (2016, p.1)
-
+    
 
     h3.subt.text-white.mb-4(data-aos="fade") NFPA
     p.mb-5(data-aos="fade") En residuos peligrosos pueden usarse diferentes tipos de pictogramas como el del rombo NFPA
     .row.justify-content-center.mb-5
       .col-md-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 14] NFPA
+          p.mb-0 #[b Figura 13] NFPA
         img(src='@/assets/curso/temas/tema5/fig14.svg', alt='NFPA')
-        figcaption.mt-2 
-          p.mb-0 Nota. Rombo de riesgo NFPA. Gerry Mata (2012, p.1) 
 
 
     h3.subt.text-white.mb-4(data-aos="fade") SGA
-    p.mb-5(data-aos="fade") En residuos peligrosos pueden usarse diferentes tipos de pictogramas como el del rombo NFPA
+    p.mb-5(data-aos="fade") El Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos ofrece un conjunto de criterios armonizados sobre el peligro de las sustancias químicas.
     .row.justify-content-center.mb-5
       .col-md-5(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 15] Pictogramas como los del sistema globalmente armonizado
+          p.mb-0 #[b Figura 14] Pictogramas como los del sistema globalmente armonizado
         img(src='@/assets/curso/temas/tema5/fig15.png', alt='Pictogramas como los del sistema globalmente armonizado')
         figcaption.mt-0 
           p.mb-0 Nota. Etiqueta SGA (Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos). MARBE Departamento químico (2016) 
@@ -521,7 +498,7 @@
 
 
     h3.subt.text-white.mb-4(data-aos="fade") NTC 1692
-    p.mb-4(data-aos="fade") La Norma Técnica Colombia 1692 es la más usada en residuos, tal como lo muestra la tabla
+    p.mb-4(data-aos="fade") La Norma Técnica Colombia 1692 es la más usada en residuos, tal como lo muestra la tabla.
     .row.fondo-blue.align-items-center.py-5.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row.align-items-center.justify-content-center
@@ -604,21 +581,16 @@
 
 
 
-    p.mb-5(data-aos="fade") Para los residuos no peligrosos su rotulación es colocar el nombre del residuo, quien lo genera , fecha de recolección y el logo de reciclaje si es para reciclar y si es ordinario o común no se requiere de logo solo de la identificación del residuo, algunas veces en los rótulos se coloca el peso o volumen del residuo si este no está en el rótulo debe estar en los registros de gestión de residuos sea en el registro de recolección o de almacenamiento de residuos o de entrega de residuos para así llevar los indicadores de gestión de generación de residuos. Los ejemplos más usuales son:
+    p.mb-5(data-aos="fade") Para los residuos no peligrosos su rotulación es colocar el nombre del residuo, quien lo genera, fecha de recolección y el logo de reciclaje; si es para reciclar y si es ordinario o común no se requiere de logo solo de la identificación del residuo, algunas veces en los rótulos se coloca el peso o volumen del residuo, si este no está en el rótulo debe estar en los registros de gestión de residuos, sea en el registro de recolección o de almacenamiento o de entrega de residuos para así llevar los indicadores de gestión de generación de residuos
+
     .row.justify-content-center
       .col-md-5(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 16] Etiqueta de ejemplo para residuos peligrosos
-        img(src='@/assets/curso/temas/tema5/fig16.png', alt='Etiqueta de ejemplo para residuos peligrososo')
-        figcaption.mt-0 
-          p.mb-0 Nota. Plan de Gestión Integral de Residuos. IMPALA (2017, p. 14)
-      .col-md-5(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 17] Etiqueta
+          p.mb-0 #[b Figura 15] Etiqueta
         img(src='@/assets/curso/temas/tema5/fig17.png', alt='Etiqueta')
-        figcaption.mt-0 
-          p.mb-0 Nota. Procedimiento para la gestión y disposición de residuos sólidos y peligrosos. Universidad de los Andes (2012, p. 18)   
-
+        figcaption.mt-3
+          p.mb-0 Nota. Procedimiento para la gestión y disposición de residuos sólidos y peligrosos. Universidad de los Andes (2012, p. 18) 
+      
 
 
 

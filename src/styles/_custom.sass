@@ -139,6 +139,14 @@
 .lista-ol--cuadro.color-acento-contenido .lista-ol--cuadro__vineta 
   color: $color-sistema-texto
   font-weight: bold
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem 
 
 .tabs-a__tab
   background-color: #E8E8E8
@@ -159,10 +167,21 @@
   width: 45%   
 .tabla-a.tema5 thead th
   padding: 10px 5px
-.tabla-a.tema5 thead th:nth-child(5), .tabla-a.tema5 thead th:last-child
-  width: 11%  
-.tabla-a.tema5 thead th:nth-child(3), .tabla-a.tema5 thead th:nth-child(4)
+.tabla-a.tema5 tbody td
+  padding: 10px 7px
+
+.tabla-a.tema5 thead th:nth-child(3)
   width: 16% 
+  @media (max-width: 992px)
+    width: 15%  
+.tabla-a.tema5 thead th:nth-child(4)
+  width: 16% 
+  @media (max-width: 992px)
+    width: 18%  
+.tabla-a.tema5 thead th:nth-child(5), .tabla-a.tema5 thead th:last-child
+  width: 12%  
+  @media (max-width: 992px)
+    width: 15%  
 .tabla-a.tema5-5 thead th:last-child
   width: 55%  
 .tabla-a.tema8-1 table
@@ -171,6 +190,8 @@
   width: 38%
 .tabla-a.tema9-1 thead th:first-child
   width: 20%   
+.tabla-a.tema9-2 table
+  min-width: 1400px
 .tabla-a.tema9-2 tbody td
   border: 1px solid #707070
   padding: 10px 5px
@@ -178,12 +199,18 @@
   padding: 8px 5px
 .tabla-a.tema9-2 thead th:first-child
   width: 4%    
-.tabla-a.tema9-2 thead th:last-child, .tabla-a.tema9-2 thead th:nth-child(5), 
-.tabla-a.tema9-2 thead th:nth-child(6)
-  width: 9%    
-.tabla-a.tema9-2 thead th:nth-child(3)
-  width: 10%     
 .tabla-a.tema9-2 thead th:nth-child(2)
-  width: 11%  
+  width: 13% 
+.tabla-a.tema9-2 thead th:nth-child(3)
+  width: 10%  
+.tabla-a.tema9-2 thead th:nth-child(5)
+  width: 9%    
+.tabla-a.tema9-2 thead th:nth-child(6)
+  width: 9%   
+.tabla-a.tema9-2 thead th:last-child
+  width: 9%    
+   
+ 
+  
 .tabla-a.tema10 tbody td, .tabla-a.tema9 tbody td, .tabla-a.tema9 tbody th
   border: 1px solid #707070  

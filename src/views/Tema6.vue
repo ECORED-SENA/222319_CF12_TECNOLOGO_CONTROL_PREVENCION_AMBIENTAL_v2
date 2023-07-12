@@ -10,7 +10,7 @@
     .row.align-items-center.mb-md-2
       .col-md-7.mb-4(data-aos="fade-right")
         p Se deben diseñar rutas de recolección interna de residuos según la distribución de los puntos de generación y que cubran la totalidad de la organización, estableciendo horarios y frecuencias e identificando en cada uno de estos lo siguiente: 
-        ul.lista-ul--color.color-primario.ps-md-4.ps-3.mb-4
+        ul.lista-ul--color.color-primario.ps-md-4.ps-3.mb-4.fa-ul
           li 
             i.fas.fa-check
             | Localización, número y capacidad de los recipientes donde se encuentran los residuos. 
@@ -19,11 +19,11 @@
             | Tipo de residuo generado, lo cual está asociado al color del recipiente. 
         p.bg-green.p-4 Esta actividad puede realizarse con la ayuda de planos de la edificación donde funciona la organización, creando un plano de ruta sanitaria. La frecuencia de recolección interna dependerá de la capacidad de almacenamiento y el tipo de residuo generado. Los elementos empleados para la recolección de residuos peligrosos son de uso exclusivo para este fin. 
       .col-md-5.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema6/img.png', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema6/img.png', alt='')
 
     .row.align-items-center.mb-md-3
       .col-md-6.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema6/img2.png', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema6/img2.png', alt='')
       .col-md-6.mb-4(data-aos="fade-left")
         p El tiempo de permanencia de los residuos en los puntos de generación debe ser el mínimo posible, especialmente en áreas donde se generan residuos peligrosos. En el evento de un derrame de residuos peligrosos, se efectuará de inmediato acciones correctivas, conforme a las recomendaciones dadas por los proveedores en las hojas de seguridad de cada material. Deben establecerse los procedimientos para este tipo de acontecimientos y debe quedar consignado en el Plan de Contingencias y el personal de recolección del residuo derramado debe saber cómo actuar ante la contingencia.
         .bloque-texto-c.bg-blue.p-4
@@ -38,7 +38,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 16] Ruta sanitaria ejemplo
+          p.mb-0 #[b Figura 16.] Ruta sanitaria ejemplo
         img(src='@/assets/curso/temas/tema6/fig18.svg', alt='Ruta sanitaria ejemplo')
         figcaption.mt-3
           p.mb-0 Nota. Guía para elaboración y presentación del plan de gestión integral de residuos hospitalarios y similares-pgirhs aplicado a microgeneradores. Área Metropolitana de Bucaramanga (2002, p.7)
@@ -54,7 +54,7 @@
             p Los equipos de recolección son:
           .col-md-5.mb-4(data-aos="fade-left")
             .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 17] Equipos de recolección
+                p.mb-0 #[b Figura 17.] Equipos de recolección
             img(src='@/assets/curso/temas/tema6/fig19.png', alt='Equipos de recolección')
             figcaption.mt-2
               p.mb-0 Nota. Guía para la gestión de residuos peligrosos. Universidad Pontificia Bolivariana. (2011, p. 73) 
@@ -64,7 +64,8 @@
     
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/upslgyMxARY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Recolección y transporte interno de residuos
 
       
 

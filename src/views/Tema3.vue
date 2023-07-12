@@ -18,38 +18,38 @@
       .tarjeta.bg-green.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/ico1.svg' alt='Icono')
+            img(src='@/assets/curso/temas/tema3/ico1.svg' alt='')
         p.text-center Prevención en la generación de residuos y Reducción en el origen. 
       .tarjeta.bg-green.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/ico2.svg' alt='Icono')
+            img(src='@/assets/curso/temas/tema3/ico2.svg' alt='')
         p.text-center Talleres de segregación de residuos, recolección, almacenamiento, simulacros de aplicación del Plan de Contingencia. 
       .tarjeta.bg-green.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/ico3.svg' alt='Icono')
+            img(src='@/assets/curso/temas/tema3/ico3.svg' alt='')
         p.text-center Legislación ambiental vigente. 
       .tarjeta.bg-green.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/ico4.svg' alt='Icono')
+            img(src='@/assets/curso/temas/tema3/ico4.svg' alt='')
         p.text-center Riesgos ambientales por el inadecuado manejo de los residuos. 
       .tarjeta.bg-green.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/ico5.svg' alt='Icono')
+            img(src='@/assets/curso/temas/tema3/ico5.svg' alt='')
         p.text-center Conocimiento del organigrama y responsabilidades asignadas. 
       .tarjeta.bg-green.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/ico6.svg' alt='Icono')
-        p.text-center Manejo de residuos o desechos peligrosos 
+            img(src='@/assets/curso/temas/tema3/ico6.svg' alt='')
+        p.text-center Manejo de residuos o desechos peligrosos.
       .tarjeta.bg-green.p-4
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/ico7.svg' alt='Icono')
-        p.text-center Beneficios ambientales por el adecuado manejo de residuos 
+            img(src='@/assets/curso/temas/tema3/ico7.svg' alt='')
+        p.text-center Beneficios ambientales por el adecuado manejo de residuos. 
 
 
     p.mb-4(data-aos="fade") Es importante que la capacitación sea continua, para lo cual se puede establecer un cronograma de actividades en donde estructure el proceso y planifique las distintas actividades programadas para tal fin, empleando métodos como talleres, carteleras, actividades lúdicas, envío de correos electrónicos, altavoz al interior de la organización, entre otros. 
@@ -61,7 +61,7 @@
           p.mb-3 Estos procesos de formación y capacitación están orientados a fortalecer a la organización en aquellas actividades que presenten falencias. Es importante que quede el soporte o certificación de las actividades desarrolladas, que incluya como mínimo los siguientes elementos: el tema abordado, los listados y firmas de las personas asistentes, la intensidad de la capacitación y la fecha de realización, adicional puede agregar las evidencias como fotografías. 
           h5.mb-0 (Área metropolitana del Valle de Aburrá, 2016, p. 17) 
       .col-md-6(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema3/img2.jpg' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema3/img2.jpg' alt='')
 
 
 

@@ -26,7 +26,7 @@
         p Es importante tener en cuenta que existen algunas plagas que no se deben matar ni utilizar pesticidas para su exterminio, como los murciélagos, las palomas y las ardillas, mientras que otras sí se pueden eliminar con pesticidas, como las cucarachas y las ratas.
       .col-md-4.bg-white.pt-2(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-0
-          p.mb-0 #[b Figura 23] Ejemplo de plagas
+          p.mb-0 #[b Figura 23.] Ejemplo de plagas
         img(src='@/assets/curso/temas/tema8/tab-fig25.jpg', alt='Ejemplo de plagas')
 
 
@@ -35,7 +35,7 @@
       .col-md-7.mb-4.mb-md-0(data-aos="fade-right")
         p La función principal de los pesticidas es exterminar o controlar organismos vivos como maleza, insectos, arañas y otros seres no deseados en un establecimiento. Ejemplos de pesticidas incluyen los aerosoles para cucarachas y hormigas, las bombas para pulgas, los raticidas, los herbicidas y las bolas de naftalina. Es importante tener en cuenta que todos los pesticidas son potencialmente dañinos. Por lo tanto, se recomienda utilizarlos solo como último recurso. Es preferible evitar el uso de pesticidas en aerosol y nebulizadores (bombas contra insectos) debido a los riesgos para la salud.
       .col-md-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema8/tab-img2.png' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema8/tab-img2.png' alt='')
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       h4.t-green.mb-4 Tipo de pesticidas
@@ -71,11 +71,11 @@
                   p.mb-2 Caracoles y babosas.
 
     .row.mb-4
-      .col-md-5(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema8/tab-img4.jpg' alt='Imagen decorativa')
+      .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+        img(src='@/assets/curso/temas/tema8/tab-img4.jpg' alt='')
       .col-md-7.mb-4.mb-md-0(data-aos="fade-left")
         p Si las plagas se vuelven un problema, necesitará controlarlas o exterminarlas, fomente el uso de materiales y métodos para tratar las plagas que maximicen la seguridad y reduzcan la exposición al personal a productos químicos dañinos. Para controlar las plagas, elija métodos que sean: 
-        ul.lista-ul--color.color-primario.ps-3.ps-md-4
+        ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
           li.mb-1
             i.fas.fa-check
             | Los menos dañinos para la salud humana y otros seres vivos que no son plagas.  
@@ -95,7 +95,7 @@
     .row.mb-5
       .col-md-7(data-aos="fade-right")
         p A menudo se pueden controlar las plagas siguiendo pasos libres de químicos como:
-        ul.lista-ul--color.color-primario.ps-3.ps-md-4
+        ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
           li.mb-1
             i.fas.fa-check
             | Evitar que las plagas entren eliminando las fuentes de comida, agua y refugio. 
@@ -108,20 +108,21 @@
           li
             i.fas.fa-check
             | Usar trampas: algunas trampas se usan principalmente para supervisar la presencia de plagas. Entre éstas se incluyen las trampas para cucarachas y las trampas en base a feromona (que atraen sexualmente a los insectos) aún si la infestación es leve, estas trampas pueden ser usadas para mantener las plagas bajo control.  Otras trampas libres de químicos incluyen:
-            .bg-blue.p-4.mt-3
-              ul.lista-ul--color.color-primario
-                li.mb-1
-                  i.fas.fa-check
-                  | Trampas para ratones y ratas que se cierran mecánicamente. Coloquelas en los lugares donde los roedores puedan encontrarlas.
-                li.mb-0
-                  i.fas.fa-check
-                  |	“Matamoscas y trampas de luz ultravioleta para moscas. “Trampas cónicas para moscas o avispas de chaqueta amarilla. “Trampas de caja para zorrillos, mapaches y comadrejas (zarigüeyas) Si los métodos libres de químicos no dan resultados, use el pesticida menos dañino para tratar el problema de plaga. Los pesticidas menos dañinos son: cebos que se colocan en lugares fijos (no rociados o esparcidos)  efectivos contra plagas específicas. Son de baja toxicidad aguda y crónica para las personas, los animales y el medio ambiente. se biodegradan rápidamente. Exterminan una categoría limitada de plagas específicas. tienen poco o ningún impacto en otros organismos, especialmente en los predadores de plagas.
+          
+          .bg-blue.p-4.mt-3.ms-2.ms-md-3.ms-lg-5
+            ul.lista-ul--color.color-primario.fa-ul
+              li.mb-1
+                i.fas.fa-check
+                | Trampas para ratones y ratas que se cierran mecánicamente. Colóquelas en los lugares donde los roedores puedan encontrarlas.
+              li.mb-0
+                i.fas.fa-check
+                |	“Matamoscas y trampas de luz ultravioleta para moscas. “Trampas cónicas para moscas o avispas de chaqueta amarilla. “Trampas de caja para zorrillos, mapaches y comadrejas (zarigüeyas) Si los métodos libres de químicos no dan resultados, use el pesticida menos dañino para tratar el problema de plaga. Los pesticidas menos dañinos son: cebos que se colocan en lugares fijos (no rociados o esparcidos)  efectivos contra plagas específicas. Son de baja toxicidad aguda y crónica para las personas, los animales y el medio ambiente. se biodegradan rápidamente. Exterminan una categoría limitada de plagas específicas. tienen poco o ningún impacto en otros organismos, especialmente en los predadores de plagas.
       .col-md-5(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema8/tab-img3.png' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema8/tab-img3.png' alt='')
       
         
 
-    h3.subt.text-white.mb-4(data-aos="fade") Técnicas de desinfección
+    h3.subt.text-white.mb-4(data-aos="fade") Técnicas de desinfección y limpieza
 
     p.mb-4(data-aos="fade") Antes de ahondar en las técnicas de desinfección es necesario conocer la diferencia de los siguientes conceptos.
 
@@ -146,7 +147,7 @@
           .tarjeta.bg-green9
             .p-4.p-md-5.pt-md-4.text-center
               h5 Solución
-              p  Combinación de un sólido o de un producto concentrado con agua, para obtener una distribución homogénea de cada uno de los componentes
+              p  Combinación de un sólido o de un producto concentrado con agua, para obtener una distribución homogénea de cada uno de los componentes.
 
 
     h3.subt.text-white.mb-4(data-aos="fade") Modelo genérico de limpieza y desinfección manual
@@ -164,7 +165,7 @@
           b la desinfección, 
           | que implica la destrucción de los microorganismos mediante el uso de un desinfectante adecuado, dejando actuar el tiempo necesario según corresponda. Finalmente, se realiza un enjuague final para eliminar los restos del desinfectante y se procede al secado para eliminar cualquier resto de agua. Es importante asegurarse de que todas estas etapas se lleven a cabo de manera rigurosa para garantizar la seguridad alimentaria.
       .col-md-5.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema8/img2.png', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema8/img2.png', alt='')
 
 
 
@@ -203,10 +204,10 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10.bg-blue2.py-4
         .row.align-items-center.ps-md-0
-          .col-md-3.mb-3.mb-md-0
-            img(src='@/assets/curso/temas/tema8/img3.svg', alt='Imagen decorativa')
+          .col-md-3.col-6.mb-3.mb-md-0
+            img(src='@/assets/curso/temas/tema8/img3.svg', alt='')
           .col-md-9.mb-3.mb-md-0
-            ul.lista-ul--color.color-primario.ps-3.ps-md-4
+            ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
               li
                 i.fas.fa-check
                 | No alterar las características de las materias primas.
@@ -245,7 +246,7 @@
 
     .row.align-items-center.mb-md-3
       .col-md-8.mb-4(data-aos="fade-right")
-        ul.lista-ul--color.color-primario.ps-3.ps-md-4
+        ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
           li
             i.fas.fa-check
             | El cloro es un desinfectante universal, activo contra todos los microrganismos.
@@ -259,7 +260,7 @@
             i.fas.fa-check
             | Es un químico económico, asequible, de gran aplicabilidad y se consigue comercialmente en forma líquida a una concentración entre el 4% y el 6%:
       .col-md-4.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema8/img4.png', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema8/img4.png', alt='')
 
 
     h3.subt.text-white.mb-4(data-aos="fade") Medidas de Manejo del hipoclorito
@@ -268,14 +269,14 @@
     
     figure(data-aos="fade-down").mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZggndOHgq5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Manejo del hipoclorito
             
 
     .row.align-items-center.mb-md-3
       .col-md-9.mb-4(data-aos="fade-right")
         p.mb-4 La preparación de Hipoclorito de Sodio es: 
-        ul.lista-ul--color.color-primario.ps-3.ps-md-4
+        ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
           li
             i.fas.fa-check
             | Lo primero que hay que tener en cuenta es la concentración, que debe ser del 5% según la recomendación del INVIMA.
@@ -293,10 +294,15 @@
         .bg-gray.p-4.px-md-5.h-100
           h4.t-green EJERCICIO:
           p Se desea preparar una solución al 0.25% (2500 ppm) porque se va a emplear para hacer el procedimiento de desinfección del lavado rutinario de un área crítica que puede ser el cuarto de almacenamiento de residuos.
-          p 1) Verifique en la etiqueta del producto hipoclorito de sodio comercial, la concentración de este, para efectos de este ejemplo, se ha de suponer que en este ejemplo se dispone de hipoclorito de sodio al 5% (50000 ppm)
-          p 2) Determine la cantidad que necesite preparar de esta dilución. Para efectos de este ejemplo, se necesita preparar 1 litro a 2500 ppm.
+          ol.lista-ol.fa-ul
+            li 
+              span 1)
+              | Verifique en la etiqueta del producto hipoclorito de sodio comercial, la concentración de este, para efectos de este ejemplo, se ha de suponer que en este ejemplo se dispone de hipoclorito de sodio al 5% (50000 ppm).
+            li 
+              span 2)
+              | Determine la cantidad que necesite preparar de esta dilución. Para efectos de este ejemplo, se necesita preparar 1 litro a 2500 ppm.
       .col-md-6.mb-4.mx-0.px-0.h-100(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema8/img6.png', alt='Imagen decorativa')    
+        img(src='@/assets/curso/temas/tema8/img6.png', alt='')    
 
 
     .row.fondo-tema8.align-items-center.py-5.pb-4
@@ -314,7 +320,7 @@
             h5.mb-1 Volumen de la solución de la concentración deseada a preparar (Vd)
             p.mb-0 1000 mL (1 Iitro de solución de 2500 ppm)
           .col-md-3.mb-4(data-aos="fade-left")
-            img(src='@/assets/curso/temas/tema8/img7.svg', alt='Imagen decorativa')      
+            img(src='@/assets/curso/temas/tema8/img7.svg', alt='')      
 
           .col-md-12.mb-mb-3(data-aos="fade")
             p.mb-0 Entonces debo utilizar la siguiente fórmula para saber que (¿V?):
@@ -331,15 +337,15 @@
             p Entonces se debe agregar 50ml de Hipoclorito de sodio al 5% (50000 ppm) a 950 ml de agua desionizada o destilada para obtener un 1 litro de solución de 2500 ppm.
 
           .row.justify-content-center
-            .col-md-4(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema8/fig27.png', alt='Rotular los envases')
+            .col-md-5.col-lg-4(data-aos="fade-right")
+              img(src='@/assets/curso/temas/tema8/fig27.svg', alt='')
             .col-md-7(data-aos="fade-left")
               .bg-white.tarjeta.box-shadow.p-4.mb-5
                 SlyderA(tipo="b")
                   .row.px-md-4
                     h4.t-green ¿Qué no debo hacer con las preparaciones de hipoclorito de sodio?
                     p Hay ciertas prácticas que se deben evitar al manipular preparaciones de hipoclorito de sodio para garantizar una utilización segura y efectiva del producto. Algunas de ellas se presentan en la siguiente infografía:
-                    ul.lista-ul--color.color-primario
+                    ul.lista-ul--color.color-primario.fa-ul
                       li
                         i.fas.fa-check
                         | Evitar que durante el almacenamiento pueda entrar en contacto con materiales combustibles, ácidos y/o compuestos derivados del amoniaco.   
@@ -361,7 +367,7 @@
                   .row.px-md-4
                     h4.t-green ¿Cómo debo almacenar las soluciones de hipoclorito de sodio? 
                     p A continuación, se presentarán algunas recomendaciones importantes para el manejo seguro de las soluciones de hipoclorito de sodio:
-                    ul.lista-ul--color.color-primario
+                    ul.lista-ul--color.color-primario.fa-ul
                       li
                         i.fas.fa-check
                         | Se debe guardar en un lugar protegido de la luz, ventilado y a una temperatura no superior de 30ºC.   
@@ -374,13 +380,10 @@
                       li
                         i.fas.fa-check
                         | Realizar la señalización del área e identificación del producto.   
-                      li
-                        i.fas.fa-check
-                        | Realizar la rotación del producto en inventario, el primero que entra es el primero que sale.
                   .row.px-md-4
                     h4.t-green ¿Qué daño puede ocasionar los desinfectantes clorados a la salud y al medio ambiente? 
                     p La intoxicación por hipocloritos y por sustancias liberadoras de cloro puede estar acompañada de los siguientes síntomas:   
-                    ul.lista-ul--color.color-primario
+                    ul.lista-ul--color.color-primario.fa-ul
                       li
                         i.fas.fa-check
                         | Dolor e inflamación de la boca, la faringe, el esófago y el estómago, seguidos por erosión de las mucosas, en especial del estómago.   
@@ -413,7 +416,7 @@
 
     .row.align-items-center.justify-content-center.bg-green8.p-4.mb-4
       .col-md-7(data-aos="fade-right")
-        ul.lista-ul--color.color-primario
+        ul.lista-ul--color.color-primario.fa-ul
           li.mb-0
             i.fas.fa-check
             | Realizar las operaciones apresuradamente y en el momento inoportuno.
@@ -445,35 +448,32 @@
             i.fas.fa-check
             | Personal no entrenado.
       .col-md-5(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema8/img8.png', alt='Imagen decorativa')  
+        img(src='@/assets/curso/temas/tema8/img8.png', alt='')  
 
 
     p.mb-4(data-aos="fade") Al utilizar desinfectantes, es importante seguir algunas recomendaciones para garantizar la eficacia del proceso y evitar riesgos para la salud. Algunas de los consejos más importantes son:
 
     .bg-green5.p-4
       .row 
-        .col-md-5
-          img(src='@/assets/curso/temas/tema8/img9.png', alt='Imagen decorativa') 
+        .col-md-5.mb-3.mb-md-0
+          img(src='@/assets/curso/temas/tema8/img9.png', alt='') 
         .col-md-7
-          p 
-            b 1.  
-            | Emplear la cantidad adecuada de detergente, ya que esto facilita el enjuague y reduce el consumo de agua.
-
-          p 
-            b 2. 
-            | Es recomendable barrer antes de trapear para evitar que los residuos tapen las cañerías y reducir los gastos de mantenimiento del sistema de agua. 
-
-          p 
-            b 3. 
-            | Limpiar las superficies antes de desinfectar, ya que esto permite eliminar la mayor parte de los contaminantes y reduce la cantidad de desinfectante necesario para lograr el mismo efecto. 
-
-          p 
-            b 4. 
-            | El personal que ha recibido un entrenamiento adecuado y claras instrucciones sobre cómo realizar su tarea es más eficiente en el uso de los productos y utensilios de limpieza. 
-
-          p 
-            b 5. 
-            | Nunca utilice los elementos empleados en la limpieza de pisos (secadores, escobas, trapeadores, etc.) para limpiar mesones o accesorios de cocina, ya que esto puede transferir los contaminantes de una superficie a otra.
+          ol.lista-ol.fa-ul
+            li 
+              span.fw-bold 1.
+              | Emplear la cantidad adecuada de detergente, ya que esto facilita el enjuague y reduce el consumo de agua.
+            li 
+              span.fw-bold 2.
+              | Es recomendable barrer antes de trapear para evitar que los residuos tapen las cañerías y reducir los gastos de mantenimiento del sistema de agua. 
+            li 
+              span.fw-bold 3.
+              |  Limpiar las superficies antes de desinfectar, ya que esto permite eliminar la mayor parte de los contaminantes y reduce la cantidad de desinfectante necesario para lograr el mismo efecto. 
+            li 
+              span.fw-bold 4.
+              |  El personal que ha recibido un entrenamiento adecuado y claras instrucciones sobre cómo realizar su tarea es más eficiente en el uso de los productos y utensilios de limpieza. 
+            li 
+              span.fw-bold 5.
+              |  Nunca utilice los elementos empleados en la limpieza de pisos (secadores, escobas, trapeadores, etc.) para limpiar mesones o accesorios de cocina, ya que esto puede transferir los contaminantes de una superficie a otra.
 
 
 </template>

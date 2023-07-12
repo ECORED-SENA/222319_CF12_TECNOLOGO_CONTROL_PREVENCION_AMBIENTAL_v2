@@ -8,7 +8,7 @@
       h1 Almacenamiento de residuos
 
 
-    p.mb-4(data-aos="fade") Un sitio de almacenamiento de residuos puede ser una bodega separada por residuos o en una sola pero, dividida por compartimentos, también los hay estilo 
+    p.mb-4(data-aos="fade") Un sitio de almacenamiento de residuos puede ser una bodega separada por residuos o en una sola, pero, dividida por compartimentos, también los hay estilo 
       em lockers 
       | o en 
       em buggies 
@@ -17,17 +17,17 @@
     .row.justify-content-center.mb-5
       .col-md-5.mb-4(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 18] Sitio de almacenamiento de residuos ejemplo 1
+          p.mb-0 #[b Figura 18.] Sitio de almacenamiento de residuos ejemplo 1
         img(src='@/assets/curso/temas/tema7/fig20.jpg', alt='Sitio de almacenamiento de residuos ejemplo 1')
         figcaption.mt-2 
           p.mb-0 Nota. Almacenamiento de residuos peligrosos. SOCOAM (s.f)
       .col-md-5.mb-4(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 19] Sitio de almacenamiento de residuos ejemplo 2
+          p.mb-0 #[b Figura 19.] Sitio de almacenamiento de residuos ejemplo 2
         img(src='@/assets/curso/temas/tema7/fig21.jpg', alt='Sitio de almacenamiento de residuos ejemplo 2')
       .col-md-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 20] Cuarto de almacenamiento de residuos 
+          p.mb-0 #[b Figura 20.] Cuarto de almacenamiento de residuos 
         img(src='@/assets/curso/temas/tema7/fig22.png', alt='Cuarto de almacenamiento de residuos ')
         figcaption.mt-2 
           p.mb-0 Nota. Guía para la gestión de residuos peligrosos. Universidad Pontificia Bolivariana. (2011, p.71) 
@@ -49,10 +49,10 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10.fondo-tema7
         .row.align-items-center.p-4.pb-0
-          .col-md-3.mb-4.mb-md-0
-            img(src='@/assets/curso/temas/tema7/img2.svg', alt='Imagen decorativa')
+          .col-md-3.col-6.mb-4.mb-md-0
+            img(src='@/assets/curso/temas/tema7/img2.svg', alt='')
           .col-md-9
-            ul.lista-ul--color.color-primario
+            ul.lista-ul--color.color-primario.fa-ul
               li
                 i.fas.fa-check
                 | Área de acceso restringido, con elementos de señalización.
@@ -89,7 +89,7 @@
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-5
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 21] Matriz de incompatibilidad de residuos peligrosos
+          p.mb-0 #[b Figura 21.] Matriz de incompatibilidad de residuos peligrosos
         img(src='@/assets/curso/temas/tema7/fig23.png', alt='Matriz de incompatibilidad de residuos peligrosos')
         figcaption.mt-2 
           p.mb-0 Nota. Manual para el manejo integral de residuos sólidos en el Valle de Aburrá. Área metropolitana del  Valle de Aburrá  (2016, p. 22) 
@@ -97,10 +97,10 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
         .titulo-sexto.color-acento-contenido.mt-4
-          p.mb-0 #[b Figura 22] Matriz de incompatibilidad de residuos químicos
+          p.mb-0 #[b Figura 22.] Matriz de incompatibilidad de residuos químicos
         img(src='@/assets/curso/temas/tema7/fig24.png', alt='Matriz de incompatibilidad de residuos químicos')
         figcaption
-          p.mb-0 Nota. Matriz de incompatibilidad .Universidad Javeriana (2017)
+          p.mb-0 #[b Nota.] Matriz de incompatibilidad. Universidad Javeriana (2017)
 
 
 

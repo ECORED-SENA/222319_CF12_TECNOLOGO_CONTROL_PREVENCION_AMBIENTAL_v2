@@ -9,7 +9,7 @@
 
     .row.align-items-center.mb-4
       .col-md-4.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema9/img.jpg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema9/img.jpg', alt='')
       .col-md-8.mb-4(data-aos="fade-left")
         p Se deben incluir medidas de higiene y seguridad para proteger la salud del trabajador y prevenir riesgos que puedan afectar su integridad. Estas medidas incluyen la capacitación en procedimientos de bioseguridad, higiene y protección personal, entre otros aspectos, y complementan las condiciones del ambiente de trabajo, como la iluminación, ventilación, ergonomía, etc.
         .bloque-texto-c.bg-blue.p-4
@@ -39,25 +39,53 @@
               tr   
                 td.text-bold Recolección de residuos 
                 td 
-                  p.mb-1 Ropa de trabajo institucional
-                  p.mb-1 Delantal de caucho tipo industrial (opcional)
-                  p.mb-1 Guantes de caucho tipo industrial
-                  p.mb-1 Botas de caucho con suela antideslizante o botas de cuero antideslizante
-                  p.mb-1 Tapabocas (para no peligrosos)
-                  p.mb-1 Tapabocas N95 (para peligrosos infecciosos)
-                  p.mb-1 Mascarilla de gases (para peligrosos res. Químicos)
+                  ul.lista-ul--color.color-primario.fa-ul
+                    li.mb-1
+                      i.fas.fa-check
+                      | Ropa de trabajo institucional
+                    li.mb-1
+                      i.fas.fa-check
+                      |  Delantal de caucho tipo industrial (opcional)
+                    li.mb-1
+                      i.fas.fa-check
+                      |  Guantes de caucho tipo industrial
+                    li.mb-1
+                      i.fas.fa-check
+                      |  Botas de caucho con suela antideslizante o botas de cuero antideslizante
+                    li.mb-1
+                      i.fas.fa-check
+                      |  Tapabocas (para no peligrosos)
+                    li.mb-1
+                      i.fas.fa-check
+                      |  Tapabocas N95 (para peligrosos infecciosos)
+                    li.mb-0
+                      i.fas.fa-check
+                      |  Mascarilla de gases (para peligrosos res. Químicos)
                 td 
                   img.mb-2(src='@/assets/curso/temas/tema9/tabl1.jpg', alt='Recolección de residuos')
                   p.mb-0.text-small Manejo de residuos hospitalarios (2010) Equipos de protección personal p.25
               tr 
                 td.text-bold Lavado del Cuarto de almacenamiento de residuos 
                 td 
-                  p.mb-1 Overol de color claro con manga larga antifluido
-                  p.mb-1 Delantal plástico de tipo industrial color claro y ajustado a la cintura (si es requerido o si no tiene el traje antifluido)
-                  p.mb-1 Guantes de caucho tipo industrial color claro calibre 25 largo 20 
-                  p.mb-1 Protección ocular
-                  p.mb-1 Mascarilla de alta eficiencia categoría N95% en filtración (CDC, NIOSH o mascarilla de gases)
-                  p.mb-1 Botas de caucho con suela antideslizante
+                  ul.lista-ul--color.color-primario.fa-ul
+                    li.mb-1
+                      i.fas.fa-check
+                      | Overol de color claro con manga larga antifluido
+                    li.mb-1
+                      i.fas.fa-check
+                      |  Delantal plástico de tipo industrial color claro y ajustado a la cintura (si es requerido o si no tiene el traje antifluido)
+                    li.mb-1
+                      i.fas.fa-check
+                      |  Guantes de caucho tipo industrial color claro calibre 25 largo 20 
+                    li.mb-1
+                      i.fas.fa-check
+                      |  Protección ocular
+                    li.mb-1
+                      i.fas.fa-check
+                      |  Mascarilla de alta eficiencia categoría N95% en filtración (CDC, NIOSH o mascarilla de gases)
+                    li.mb-0
+                      i.fas.fa-check
+                      |  Botas de caucho con suela antideslizante
                 td 
                   img.mb-2(src='@/assets/curso/temas/tema9/tabl2.jpg', alt='Lavado del Cuarto de almacenamiento de residuos')
                   p.mb-0.text-small Universidad industrial de Santander (2009) Guía de manejo de residuos peligrosos en la sección servicios integrales de salud y desarrollo psicosocial.p.74  
@@ -71,11 +99,11 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10.bg-blue2.py-4
         .row.align-items-center.ps-md-0
-          .col-md-3.mb-3
-            img(src='@/assets/curso/temas/tema9/img2.svg', alt='Imagen decorativa')
+          .col-md-3.col-7.mb-3
+            img(src='@/assets/curso/temas/tema9/img2.svg', alt='')
           .col-md-9.mb-3
             p La elaboración del Plan de contingencia debe seguir los siguientes parámetros: 
-            ul.lista-ul--color.color-primario.ps-3.ps-md-4
+            ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
               li
                 i.fas.fa-check
                 | Análisis de riesgo
@@ -118,7 +146,7 @@
         p En la identificación de peligros, la organización debe realizar una observación y estudio detallado de los procesos, las actividades que realiza y su entorno, indicando cuáles son aquellas situaciones que pueden generar una emergencia. Una vez identificados los peligros, éstos deben ser analizados según su probabilidad de ocurrencia en términos de amenaza.
         p.bg-green.p-4 Para identificar los posibles peligros, se deben analizar y determinar aspectos como la combinación o mezcla de sustancias químicas y los residuos con características peligrosas, con el almacenamiento o transporte de gases tóxicos o líquidos corrosivos, la inflamabilidad de una sustancia, la presencia de materiales radiactivos, el deterioro de la vía, los cuales, pueden interactuar con peligros de origen natural y social, como por ejemplo, la presencia de una falla geológica, de ríos, de volcanes, las condiciones atmosféricas adversas en la zona, o las condiciones políticas y sociales de la región.
       .col-md-5.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema9/img4.jpg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema9/img4.jpg', alt='')
 
     p(data-aos="fade") La probabilidad de ocurrencia de las amenazas relacionadas con el almacenamiento y transporte de sustancias químicas y residuos peligrosos, tales como la fuga de un gas tóxico o el derrame de un combustible, se pueden ver potenciadas por la probabilidad de amenazas de tipo natural o social, como por ejemplo el desbordamiento de un río, una erupción volcánica o un atentado terrorista.
     p.mb-4(data-aos="fade") En la Tabla se muestran algunas de las posibles amenazas que pueden afectar los componentes del Manejo Integral de Residuos Sólidos.
@@ -325,16 +353,16 @@
       .col-md-7.mb-4(data-aos="fade-right")
         p El análisis de vulnerabilidad es el proceso por el cual se determina el nivel de exposición y predisposición a la pérdida de un elemento o grupo de elementos frente a una amenaza específica. El grado de vulnerabilidad de una empresa ante una amenaza determinada está directamente relacionado con su capacidad interna para prevenir o controlar los factores que originan el peligro, así como con su preparación para minimizar las consecuencias en caso de que ocurra un evento adverso.
       .col-md-5.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema9/img5.jpg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema9/img5.jpg', alt='')
 
     .row.align-items-center
       .col-md-5.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema9/img6.jpg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema9/img6.jpg', alt='')
       .col-md-7.mb-4(data-aos="fade-left")
         p.mb-4 La vulnerabilidad puede ser física o funcional dependiendo del tipo de estructura o de la capacidad de absorber la emergencia respectivamente. Para estimar la vulnerabilidad se debe:
         .row 
           .col-md-6
-            ul.lista-ul--color.color-primario.ps-3.ps-md-4
+            ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
               li.mb-3
                 i.fas.fa-check
                 | Identificar y evaluar las amenazas. 
@@ -345,7 +373,7 @@
                 i.fas.fa-check
                 | Estimar el potencial de daños. 
           .col-md-6
-            ul.lista-ul--color.color-primario.ps-3.ps-md-4
+            ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
               li.mb-3
                 i.fas.fa-check
                 | Categorizar los daños. 
@@ -402,13 +430,13 @@
 
     .row.align-items-center.mb-md-3
       .col-md-5.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema9/img7.jpg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema9/img7.jpg', alt='')
       .col-md-7.mb-4(data-aos="fade-left")
         .row.bg-yellow2.align-items-center.p-4
-          .col-md-2
-            img(src='@/assets/curso/temas/tema9/img8.svg', alt='Imagen decorativa')
+          .col-md-2.col-4.mb-3.mb-md-0
+            img(src='@/assets/curso/temas/tema9/img8.svg', alt='')
           .col-md-10  
-            ul.lista-ul--color.color-primario.ps-3.mb-0
+            ul.lista-ul--color.color-primario.ps-3.mb-0.fa-ul
               li.mb-2
                 i.fas.fa-check
                 | Aislamiento.
@@ -432,7 +460,7 @@
       .col-md-6.mb-4(data-aos="fade-right")
         p El éxito de una operación de atención de eventos mayores depende de las acciones de respuesta previstas y desarrolladas en el Plan de Emergencias. De esta manera, para lograr los resultados esperados en el plan durante la ocurrencia de situaciones de emergencia, es necesario divulgarlo debidamente dentro de la organización, e integrarlo a otros planes locales y regionales, así como a otras entidades que deberán actuar conjuntamente en la respuesta a la emergencia. Además de la debida divulgación, la implementación del Plan está relacionada con la disponibilidad de los recursos humanos, además de los materiales necesarios y compatibles con la gravedad de los posibles eventos que se atenderán.
       .col-md-6.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema9/img9.jpg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema9/img9.jpg', alt='')
 
 
 

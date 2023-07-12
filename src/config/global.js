@@ -136,72 +136,93 @@ export default {
   referencias: [
     {
       referencia:
-        'Alcaldía Santiago de Cali (2015) La problemática principal del manejo de las basuras. ',
+        'Alcaldía Santiago de Cali (2015) <em>La problemática principal del manejo de las basuras</em>.',
       link:
         'https://www.cali.gov.co/dagma/publicaciones/110286/la_problematica_principal_del_manejo_de_basuras/',
     },
     {
       referencia:
-        'Área metropolitana del valle de aburra (2016, p. 22) Manual para el manejo integral de residuos sólidos en el valle de aburra.',
-      link: 'https://asei.com.co/files/28_08_2013_02_43_59__upload.pdf',
+        'Área metropolitana del Valle de Aburrá (2016) <em>Manual para el manejo integral de residuos sólidos en el Valle de Aburrá</em>.',
+      link:
+        'https://docplayer.es/4184174-Manual-para-el-manejo-integral-de-residuos-en-el-valle-de-aburra.html',
     },
-
     {
-      referencia: 'IGAC (2018 ) Manejo de residuos peligrosos y especiales. ',
+      referencia:
+        'Decreto 1713 de 2002. [Ministerio del Interior]. Por el cual se reglamenta la Ley 142 de 1994, la Ley 632 de 2000 y la Ley 689 de 2001, en relación con la prestación del servicio público de aseo, y el Decreto Ley 2811 de 1974 y la Ley 99 de 1993 en relación con la Gestión Integral de Residuos Sólidos. Diario Oficial No. 44.893 de Agosto 7 de 2002.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5542',
+    },
+    {
+      referencia:
+        'IGAC (2018) <em>Manejo de residuos peligrosos y especiales</em>.',
       link:
         'http://igacnet2.igac.gov.co/intranet/UserFiles/File/procedimientos/instructivos/2018/I20604-01%2018V6%20Manejo%20de%20residuos%20pe.pdf',
     },
-
     {
       referencia:
-        'ICONTEC (2009) GTC 24- Gestión Ambiental Residuos sólidos Guía para la separación en la fuente. ',
-      link:
-        'http://www.bogotaturismo.gov.co/sites/intranet.bogotaturismo.gov.co/files/GTC%2024%20DE%202009.pdf',
+        'ICONTEC (2009) <em>GTC 24- Gestión Ambiental Residuos sólidos</em>. Guía para la separación en la fuente.',
+      link: 'https://tienex.co/media/b096d37fcdee87a1f193271978cc2965.pdf',
     },
     {
       referencia:
-        'ICONTEC (2005) Norma técnica colombiana NTC1692 Transporte de mercancías peligrosas definiciones, clasificación, marcado, etiquetado y rotulado.',
+        'ICONTEC (2005) <em>Norma técnica colombiana NTC1692 Transporte de mercancías peligrosas definiciones, clasificación, marcado, etiquetado y rotulado</em>',
       link:
         'https://web.mintransporte.gov.co/consultas/mercapeli/Reglamento/Anexos/NTC1692.pdf',
     },
     {
-      referencia: 'IMPALA (2017) Plan de Gestión Integral de Residuos ',
-      link:
-        'https://www.impalaterminals.com/media/1355/plan-de-gesti%C3%B3n-integral-de-residuos-impala-es.pdf',
+      referencia:
+        'IMPALA (2017) <em>Plan de Gestión Integral de Residuos</em>.',
     },
     {
       referencia:
-        'MARBE Departamento químico (2016) Etiqueta SGA (Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos)',
+        '<em>MARBE Departamento químico (2016) Etiqueta SGA (Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos).</em>',
       link:
         'https://www.marbequimica.com.ar/etiqueta-sga-sistema-globalmente-armonizado-de-clasificacion-y-etiquetado-de-productos-quimicos/',
     },
     {
       referencia:
-        'Minambiente (2020) Gobierno unifica el código de colores para la separación de residuos en la fuente a nivel nacional',
+        'Minambiente (2020) <em>Gobierno unifica el código de colores para la separación de residuos en la fuente a nivel nacional</em>',
       link:
-        'https://www.minambiente.gov.co/index.php/noticias/4595-gobierno-unifica-el-codigo-de-colores-para-la-separacion-de-residuos-en-la-fuente-a-nivel-nacional        ',
+        'https://archivo.minambiente.gov.co/index.php/noticias-minambiente/4595-gobierno-unifica-el-codigo-de-colores-para-la-separacion-de-residuos-en-la-fuente-a-nivel-nacional#:~:text=Los%20colores%20para%20la%20presentaci%C3%B3n,negro%20(residuos%20no%20aprovechables).',
+    },
+    {
+      referencia: 'PAMPA (2016). <em>POLÍTICA AMBIENTAL</em>.',
+      link:
+        'https://www.pampaltda.com.co/resources/politicas/PAMPA%20POL%C3%8DTICA%20AMBIENTAL%20PAMPA%20LTDA.pdf',
     },
     {
       referencia:
-        'Universidad Industrial de Santander (2013) Plan de gestión Integral de Residuos. ',
+        'Resolución en proyecto 2020 [Ministerio de Salud y Protección Social] Por la cual se adopta el Manual para la Gestión Integral de Residuos Generados en la Atención en Salud y otras actividades, y se dictan otras disposiciones.',
       link:
-        'https://www.uis.edu.co/webUIS/es/gestionAmbiental/documentos/capacitaciones/Manejo%20de%20Productos%20y%20Residuos%20Quimicos.pdf        ',
+        'https://consultorsalud.com/wp-content/uploads/2020/02/Manual-para-la-Gesti%C3%B3n-Integral-de-Residuos-Generados-en-la-Atenci%C3%B3n-en-Salud-proyecto-de-resolucion_compressed.pdf',
     },
     {
       referencia:
-        'Universidad Pontificia Bolivariana y Área metropolitana del Valle de Aburrá (2008). Guía para el manejo integral de residuos.  ',
+        'Resolución 2184 de 2019 [Ministerio de Ambiente y Desarrollo Sostenible] Por la cual se modifica la resolución 668 de 2016 sobre uso racional de bolsas plásticas y se adoptan otras disposiciones. Diciembre 26 de 2019.',
+      link:
+        'https://www.minambiente.gov.co/documento-entidad/resolucion-2184-de-2019/',
+    },
+    {
+      referencia:
+        'Universidad Industrial de Santander (2013) <em>Plan de gestión Integral de Residuos</em>.',
+      link:
+        'https://docplayer.es/16486008-Implementacion-del-plan-de-gestion-integral-de-residuos-en-la-universidad-industrial-de-santander-comite-tecnico-ambiental-y-sanitario.html',
+    },
+    {
+      referencia:
+        'Universidad Pontificia Bolivariana y Área metropolitana del Valle de Aburrá (2008). <em>Guía para el manejo integral de residuos</em>.',
       link:
         'https://www.sabaneta.gov.co/files/doc_varios/Gu%C3%ADa%20para%20el%20Manejo%20Integral%20de%20Residuos-%20Subsector%20instituciones%20educativas.pdf',
     },
     {
       referencia:
-        'Universidad de los Andes (2012) Procedimiento para la gestión y disposición de residuos sólidos y peligrosos.',
+        'Universidad de los Andes (2012) <em>Procedimiento para la gestión y disposición de residuos sólidos y peligrosos</em>.',
       link:
         'https://gerenciacampus.uniandes.edu.co/content/download/4106/19770/file/Procedimiento%20para%20la%20Gesti%C3%B3n%20y%20Disposici%C3%B3n%20de%20Residuos.pdf',
     },
     {
       referencia:
-        'Universidad de california (2011) Manejo integrado de plagas. ',
+        'Universidad de California (2011) Manejo integrado de plagas.',
       link:
         'https://wspehsu.ucsf.edu/wp-content/uploads/2015/10/IPM_CurriculumSpanish1.pdf',
     },
@@ -210,84 +231,80 @@ export default {
     {
       termino: 'Aprovechamiento y/o valorización',
       significado:
-        'Es el proceso de recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos o desechos peligrosos, por medio de la recuperación, el reciclado o la regeneración.',
+        'es el proceso de recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos o desechos peligrosos, por medio de la recuperación, el reciclado o la regeneración.',
     },
     {
       termino: 'Disposición final',
       significado:
-        'Es el proceso de aislar y confinar los residuos o desechos peligrosos, en especial los no aprovechables, en lugares especialmente seleccionados, diseñados y debidamente autorizados, para evitar la contaminación y los daños o riesgos a la salud humana y al ambiente',
+        'es el proceso de aislar y confinar los residuos o desechos peligrosos, en especial los no aprovechables, en lugares especialmente seleccionados, diseñados y debidamente autorizados, para evitar la contaminación y los daños o riesgos a la salud humana y al ambiente.',
+    },
+    {
+      termino: 'Gestión',
+      significado:
+        'es el conjunto de actividades orientadas a dar a los residuos sanitarios el destino final adecuado de acuerdo con las características de cada residuo.',
     },
     {
       termino: 'Gestión integral de residuos sólidos',
       significado:
-        'Es el conjunto de operaciones y disposiciones encaminadas a dar a los residuos producidos el destino más adecuado desde el punto de vista ambiental, de acuerdo con sus características, volumen, procedencia, costos, tratamiento, posibilidades de recuperación, aprovechamiento, comercialización y disposición final. ',
+        'es el conjunto de operaciones y disposiciones encaminadas a dar a los residuos producidos el destino más adecuado desde el punto de vista ambiental, de acuerdo con sus características, volumen, procedencia, costos, tratamiento, posibilidades de recuperación, aprovechamiento, comercialización y disposición final. ',
     },
     {
-      termino: 'Gestión Interna de residuos',
+      termino: 'Gestión interna de residuos',
       significado:
-        'Son las operaciones de manipulación, clasificación, envasado, etiquetado y traslado al almacén temporal dentro del propio lugar u organización.<br>1) Dotación de contenedores donde depositar los residuos. 2) Clasificación de estos residuos en grupos en función de su peligrosidad o posibilidad de reciclaje. <br>3) Transporte de los residuos al almacén central de residuos sanitarios del centro. <br>Área de salud de Cáceres (2015) Manual de gestión interna y externa de residuos. p.2<br>https://www.areasaludcaceres.es/docs/files/1195img.pdf.        ',
-    },
-    {
-      termino: 'Gestión Externa de residuos',
-      significado:
-        'Son las operaciones realizadas fuera del centro productor; recogida, traslado al centro de tratamiento y eliminación. 4) Recogida y transporte a Plantas de Transferencia o Tratamiento. 5) Tratamiento y eliminación. Desde un punto de vista general los residuos que sufren una mala gestión, ya sea en su recogida, tratamiento o eliminación final, provocan una degradación del Medio Ambiente, por lo que resulta imprescindible un adecuado tratamiento de estos desde el momento de su generación hasta que son eliminados.         ',
+        'las acciones y estrategias que se aplican dentro de una organización para manejar de manera adecuada los residuos que se generan, desde su origen hasta su disposición final, con el fin de minimizar su impacto ambiental y proteger la salud pública.',
     },
     {
       termino: 'Manejo integral de residuos',
       significado:
-        'Es el conjunto de actividades que se realizan desde la generación hasta la eliminación del residuo o desecho sólido. Comprende las actividades de separación en la fuente, presentación, recolección, transporte, almacenamiento, tratamiento y/o la eliminación de los residuos o desechos sólidos.',
+        'es un conjunto de acciones y estrategias que se aplican para controlar y minimizar el impacto ambiental y sanitario de los residuos, desde su generación hasta su disposición final. Incluye la reducción en la fuente, la reutilización, el reciclaje, el tratamiento y la disposición final adecuada de los residuos, de acuerdo con la normativa ambiental y sanitaria aplicable.',
     },
     {
       termino: 'Residuo sólido o desecho',
       significado:
-        'es cualquier objeto, material, sustancia o elemento sólido resultante del consumo o uso de un bien en actividades domésticas, industriales, comerciales, institucionales, de servicios, que el generador abandona, rechaza o entrega y que es susceptible de aprovechamiento o transformación en un nuevo bien, con valor económico o de disposición final. Los residuos sólidos se dividen en aprovechables y no aprovechables. Igualmente, se consideran como residuos sólidos aquellos provenientes del barrido de áreas públicas. ',
+        'es cualquier material que ya no se necesita y se descarta, como basura doméstica, residuos industriales, entre otros. ',
     },
     {
       termino: 'Residuo peligroso',
       significado:
-        'Es aquel que, por sus características infecciosas, tóxicas, explosivas, corrosivas, inflamables, volátiles, combustibles, radiactivas o reactivas puedan causar riesgo a la salud humana o deteriorar la calidad ambiental hasta niveles que causen riesgo a la salud humana. También son residuos peligrosos aquellos que sin serlo en su forma original se transforman por procesos naturales en residuos peligrosos. Así mismo, se consideran residuos peligrosos los envases, empaques y embalajes que hayan estado en contacto con ellos.',
-    },
-    {
-      termino: 'Residuos Especiales',
-      significado:
-        'Son aquellos residuos que por su naturaleza, composición, tamaño, volumen y peso no puedan ser recolectados, manejados, tratados o dispuestos normalmente por la persona prestadora del servicio. Incluye los residuos producto de las actividades de corte de césped y poda de árboles ubicados en las vías y áreas públicas; aquellos provenientes del barrido y limpieza de vías y áreas públicas, y los residuos provenientes de actividades de construcción y demás obras civiles. ',
+        'es un material que representa un riesgo significativo para la salud pública o el medio ambiente debido a sus características químicas, físicas o biológicas.',
     },
     {
       termino: 'Reciclaje',
       significado:
-        'Es el proceso mediante el cual se aprovechan y transforman los residuos sólidos recuperados y se devuelve a los materiales su potencialidad de reincorporación como materia prima para la fabricación de nuevos productos. El reciclaje puede constar de varias etapas: procesos de tecnologías limpias. (Ministerio de Ambiente Vivienda y Desarrollo Territorial (2002) Decreto 1713 p.4).',
+        'es el proceso mediante el cual se aprovechan y transforman los residuos sólidos recuperados y se devuelve a los materiales su potencialidad de reincorporación como materia prima para la fabricación de nuevos productos. El reciclaje puede constar de varias etapas: procesos de tecnologías limpias.',
     },
     {
       termino: 'Reutilización',
       significado:
-        'Es la prolongación y adecuación de la vida útil de los residuos sólidos recuperados y que mediante procesos, operaciones o técnicas devuelven a los materiales su posibilidad de utilización en su función original o en alguna relacionada, sin que para ello requieran procesos adicionales de transformación. (Ministerio de Ambiente Vivienda y Desarrollo Territorial (2002) Decreto 1713 p.4).',
+        'es la prolongación y adecuación de la vida útil de los residuos sólidos recuperados y que mediante procesos, operaciones o técnicas devuelven a los materiales su posibilidad de utilización en su función original o en alguna relacionada, sin que para ello requieran procesos adicionales de transformación.',
     },
     {
       termino: 'Separación en la fuente',
       significado:
-        'Es la clasificación de los residuos sólidos en el sitio donde se generan para su posterior recuperación.',
+        'es la clasificación de los residuos sólidos en el sitio donde se generan para su posterior recuperación.',
     },
   ],
   complementario: [
     {
-      tema: 'Programa Integral de Residuos Sólidos PGIRS en IPSE',
+      tema: '4. Prevención y minimización de residuos.',
       referencia:
-        'IPSE EnergiaZNI (2014, 19 diciembre) Programa Integral de Residuos Sólidos PGIRS en IPSE',
+        'SENA (2012, 16 julio) Campaña cero papel SENA. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=37Y2a2R0ORg',
+    },
+    {
+      tema: '6. Recolección y transporte interno de residuos.',
+      referencia:
+        'IPSE EnergiaZNI (2014, 19 diciembre) Programa Integral de Residuos Sólidos PGIRS en IPS. [Archivo de video] Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=tidePrlbXzU',
     },
     {
-      tema: '¿Cómo hacer un manejo integral de los residuos?',
+      tema: '8. Almacenamiento de residuos.',
       referencia:
-        'Revista consultoría TV (2018, 23 octubre) ¿Cómo hacer un manejo integral de los residuos?',
+        'Revista consultoría TV (2018, 23 octubre) ¿Cómo hacer un manejo integral de los residuos? [Archivo de video] Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=MUTCWejAUAw',
-    },
-    {
-      tema: 'Campaña cero papeles SENA',
-      referencia: 'SENA (2012, 16 julio) Campaña cero papel SENA',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=37Y2a2R0ORg',
     },
   ],
   creditos: [
@@ -295,8 +312,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
+          nombre: 'Claudia Patricia Aristizabal',
+          cargo: 'Líder del equipo',
+          centro: 'Dirección General',
+        },
+        {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable ecosistema de producción de RED Santander',
+          cargo: 'Responsable ecosistema de producción de RED Santander	',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -308,45 +330,39 @@ export default {
         {
           nombre: 'Diana Carolina Triana Guarnizo',
           cargo: 'Instructor',
-          centro: 'Centro de Gestión Industrial - Distrito Capital',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Juan Carlos Cárdenas Sánchez',
           cargo: 'Instructor',
-          centro: 'Centro de Gestión Industrial - Distrito Capital',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Zenith Chinchilla Ruedas',
           cargo: 'Diseñador instruccional',
-          centro: 'Centro de Diseño y Metrología - Distrito Capital',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Vilma Lucia Perilla ',
           cargo: 'Revisora metodológica y pedagógica',
-          centro: 'Centro de Gestión Industrial - Distrito Capital',
-        },
-        {
-          nombre: 'Martha Isabel Martínez Vargas',
-          cargo: 'Productora audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de Gestión Industrial - Distrito Capital',
-        },
-        {
-          nombre: 'Rafael Neftali Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Diseñadora Instruccional',
+          cargo: 'Revisión y corrección de estilo',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Distrito Capital',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -354,38 +370,63 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Storyboard e ilustración',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
           nombre: 'Blanca Flor Tinoco Torres',
-          cargo: 'Diseño web',
+          cargo: 'Diseñador web',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrollo front-end',
+          cargo: 'Desarrollador Fullstack',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Producción audiovisual',
+          nombre: 'Emilsen Alfonso Bautista',
+          cargo: 'Actividad didáctica',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Validación de diseño y contenido',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
     {
-      titulo: 'GESTORES DE REPOSITORIO',
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Luis Gabriel Urueta Álvarez',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },

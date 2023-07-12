@@ -22,7 +22,7 @@
             p La adopción de buenas prácticas, la optimización de los procesos, el cambio a tecnologías limpias, la sustitución de materias primas y la modificación de productos. 
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema4/tab1.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema4/tab1.png', alt='')
       .tarjeta.bg-green7.p-4(titulo="La reutilización de elementos")
         .row.justify-content-center
           .col-md-7
@@ -30,7 +30,7 @@
             p La reutilización de elementos que se generan en los procesos de la organización. Igualmente, el reciclaje de materiales, aprovechamiento de subproductos utilizándolos como materias primas dentro del mismo proceso productivo o dentro de otro. 
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema4/tab2.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema4/tab2.png', alt='')
       .tarjeta.bg-green7.p-4(titulo="La utilización de una menor cantidad de empaques")
         .row.justify-content-center
           .col-md-7
@@ -38,7 +38,7 @@
             p La utilización de una menor cantidad de empaques, solicitando al proveedor la entrega de productos sin envolturas innecesarias, el empleo de elementos que sean susceptibles de aprovechamiento para reemplazar el uso de aquellos que no lo son. 
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema4/tab3.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema4/tab3.png', alt='')
     
     
     p.mb-4 El siguiente gráfico ilustra las estrategias de gestión de residuos que puede tener en cuenta el generador, para lograr la minimización.
@@ -46,7 +46,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 3] Estrategias de minimización
+          p.mb-0 #[b Figura 3.] Estrategias de minimización
         img(src='@/assets/curso/temas/tema4/fig4.svg', alt='Estrategias de minimización')
         figcaption.mt-2 
           p.mb-0 Nota. Manual para el manejo integral de residuos sólidos en el Valle de Aburrá. Área metropolitana del Valle de Aburrá (2016, p. 18)
@@ -59,13 +59,13 @@
         p.mb-0 Para los generadores, la implementación de estrategias de gestión orientadas a la prevención y minimización de los residuos representa beneficios económicos, ambientales, legales y de imagen pública, entre otros. Sin embargo, debe haber un compromiso de la gerencia o de la dirección de la organización frente a la gestión de los residuos, para garantizar que el programa tenga éxito, reconociendo que su implementación reducirá costos y mejorará su actuación ambiental, expresando su adopción a través de la política ambiental de la empresa, organización o institución. 
     
 
-    p.mb-0(data-aos="fade") Antes de tomar la decisión sobre la implementación de una o varias alternativas identificadas, se recomienda evaluar su factibilidad utilizando criterios técnicos, legales, financieros y ambientales. (Área metropolitana del Valle de Aburrá, 2016, p.18)
+    p(data-aos="fade") Antes de tomar la decisión sobre la implementación de una o varias alternativas identificadas, se recomienda evaluar su factibilidad utilizando criterios técnicos, legales, financieros y ambientales. (Área metropolitana del Valle de Aburrá, 2016, p.18)
     p.mb-4(data-aos="fade") Para estas actividades en las organizaciones generan estrategias de prevención y minimización llamados programas o por medio de campañas, si por medio de programas ambientales muchas veces llevan objetivo, meta e indicador específico para saber la eficacia del programa, como:
     
     .row.mb-4
       .col-md-6.h-100(data-aos="fade-right")
         .bg-green8.px-4.py-5
-          ul.lista-ul--color.color-primario
+          ul.lista-ul--color.color-primario.fa-ul
             li 
               i.fas.fa-check
               | Programa de disminución de consumo de papel.
@@ -83,12 +83,12 @@
               i.fas.fa-check
               | Programa de ahorro de recursos de productos en general teniendo en cuenta la normativa obligatoria o tendencias de disminución de algún tipo de bien que puede ser un potencial residuo y que puede ser prevenido.
       .col-md-6.h-100(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema4/img3.png', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema4/img3.png', alt='')
 
 
     .row.align-items-center.p-2.bg-blue2.pt-4
       .col-lg-5(data-aos="fade-right")
-        img(src="@/assets/curso/temas/intro/img2.png", alt="Imagen decorativa")
+        img(src="@/assets/curso/temas/intro/img2.png", alt="")
       .col-lg-7(data-aos="fade-left")
         p.mb-4 En el material complementario puede revisar el video “Campaña cero papel SENA”, para conocer más del tema.
         .row.justify-content-center

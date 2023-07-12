@@ -9,9 +9,7 @@
 
 
     figure.mb-5(data-aos="fade")
-      img(src='@/assets/curso/temas/tema10/img.png' alt='Banner')
-
-    h4.t-green(data-aos="fade") Aprovechamiento, tratamiento y/o disposición final  
+      img(src='@/assets/curso/temas/tema10/img.png' alt='')
 
     p(data-aos="fade") Es importante registrar el tipo de aprovechamiento, tratamiento y/o disposición final que se utilizará para los residuos generados en la organización. Estos procesos deben ser seleccionados en función de las características de los residuos, las posibilidades de la organización, las alternativas disponibles y las regulaciones ambientales y sanitarias aplicables, y siempre buscando la opción o estrategia que genere el menor impacto ambiental posible.
     p.mb-5(data-aos="fade") En la siguiente tabla se presentan algunas alternativas de manejo que pueden aplicarse a los residuos:

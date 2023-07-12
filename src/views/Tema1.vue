@@ -20,7 +20,7 @@
 
           .col-md-10
             .titulo-sexto.color-acento-contenido
-              p.mb-0 #[b Figura 1] Manejo integral de residuos
+              p.mb-0 #[b Figura 1.] Manejo integral de residuos
             img(src='@/assets/curso/temas/tema1/fig1.svg', alt='Manejo integral de residuos')
             figcaption.bg-white.mt-2
               p.mb-0.text-center Nota. Guía para el manejo integral de residuos. Universidad Pontificia Bolivariana y Área metropolitana del Valle de Aburrá (2008, p.11) 
@@ -32,29 +32,29 @@
 
     .row.align-items-center.mb-md-3
       .col-md-6.mb-4(data-aos="fade-right")
-        p El Manejo Integral de Residuos implica la planeación y cobertura de las actividades relacionadas con los residuos, desde la generación hasta la disposición final, incluyendo los aspectos de segregación, movimiento interno, almacenamiento, desactivación, recolección, transporte y tratamiento, con lo cual se pretende evitar y minimizar la generación de residuos e incrementar el aprovechamiento de éstos, de tal suerte que cada vez sea menor la cantidad de residuos a disponer, como se puede observar en el esquema de jerarquización  de la gestión de los residuos. (Universidad Pontificia Bolivariana y Área metropolitana del Valle de Aburrá, 2008, p.11) s
+        p El Manejo Integral de Residuos implica la planeación y cobertura de las actividades relacionadas con los residuos, desde la generación hasta la disposición final, incluyendo los aspectos de segregación, movimiento interno, almacenamiento, desactivación, recolección, transporte y tratamiento, con lo cual se pretende evitar y minimizar la generación de residuos e incrementar el aprovechamiento de éstos, de tal suerte que cada vez sea menor la cantidad de residuos a disponer, como se puede observar en el esquema de jerarquización  de la gestión de los residuos. (Universidad Pontificia Bolivariana y Área metropolitana del Valle de Aburrá, 2008, p.11)
       .col-md-6.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema1/img.jpg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema1/img.jpg', alt='')
 
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 2] Manejo integral de residuos
+          p.mb-0 #[b Figura 2.] Manejo integral de residuos
         img(src='@/assets/curso/temas/tema1/fig2.svg', alt='Manejo integral de residuos')
         figcaption.mt-2
           p.mb-0 Nota. Guía para el manejo integral de residuos. Universidad Pontificia Bolivariana y Área metropolitana del Valle de Aburrá (2008, p.11)
 
     .row.d-flex(data-aos="fade-down")
-      .col-md-4
+      .col-md-4.mb-3.mb-md-0
         .h-100.bg-green5.b-radius20.py-5.px-4.p-md-5
           h5.text-center Gestión
           p.text-center Es el conjunto de actividades orientadas a dar a los residuos sanitarios el destino final adecuado, de acuerdo con las características de cada residuo.
-      .col-md-4
+      .col-md-4.mb-3.mb-md-0
         .h-100.bg-green5.b-radius20.py-5.px-4.p-md-5
           h5.text-center Gestión Interna de residuos
           p.text-center Son las operaciones de manipulación, clasificación, envasado, etiquetado y traslado al almacén temporal dentro del propio lugar u organización. Presenta:
-          ol.lista-ol--cuadro.color-primario
+          ol.lista-ol--cuadro.color-primario.fa-ul
             li 
               .lista-ol--cuadro__vineta
                 span 1
@@ -67,12 +67,19 @@
               .lista-ol--cuadro__vineta
                 span 3
               | Transporte de los residuos al almacén central de residuos sanitarios del centro.  
-      .col-md-4
+      .col-md-4.mb-3.mb-md-0
         .h-100.bg-green5.b-radius20.py-5.px-4.p-md-5
           h5.text-center Gestión Externa de residuos
           p.text-center Son las operaciones realizadas fuera del centro productor; recogida, traslado al centro de tratamiento y eliminación.  Presenta:
-          p.text-center.mb-0 1) Recogida y transporte a Plantas de Transferencia o Tratamiento. 
-          p.text-center 2) Tratamiento y eliminación. Desde un punto de vista general los residuos que sufren una mala gestión, ya sea en su recogida, tratamiento o eliminación final, provocan una degradación del Medio Ambiente, por lo que resulta imprescindible un adecuado tratamiento de estos desde el momento de su generación hasta que son eliminados.
+          ol.lista-ol--cuadro.color-primario.fa-ul
+            li 
+              .lista-ol--cuadro__vineta
+                span 1
+              | Recogida y transporte a Plantas de Transferencia o Tratamiento. 
+            li 
+              .lista-ol--cuadro__vineta
+                span 2
+              | Tratamiento y eliminación. Desde un punto de vista general los residuos que sufren una mala gestión, ya sea en su recogida, tratamiento o eliminación final, provocan una degradación del Medio Ambiente, por lo que resulta imprescindible un adecuado tratamiento de estos desde el momento de su generación hasta que son eliminados.
 
 
 

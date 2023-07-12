@@ -10,11 +10,11 @@
 
     .row.align-items-center
       .col-md-5.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema2/img.png', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema2/img.png', alt='')
       .col-md-7.mb-4(data-aos="fade-left")
         p De acuerdo con lo identificado en el diagnóstico realizado por la organización, se debe formular un compromiso organizacional conocido como Política Ambiental y unos objetivos y metas orientados hacia la prevención de la generación y hacia la minimización de los residuos que debe verse reflejado en la política ambiental de la organización.
-        p Se recomienda plantear unos objetivos congruentes con las condiciones, recursos y necesidades que posea el generador, procurando que sean coherentes y alcanzables.
-        p.bg-green.p-4 En cuanto a las metas se debe evitar que sean vagas, o que sean demasiado ambiciosas sin que exista un compromiso real para cumplirlas, y por ello deben ser realistas y ejecutables desde las perspectivas ambiental, técnica y financiera. Las metas deben ser cuantificables, siempre que sea posible, y tener escalas de tiempo. 
+        p.bg-green.p-4 Se recomienda plantear unos objetivos congruentes con las condiciones, recursos y necesidades que posea el generador, procurando que sean coherentes y alcanzables.
+        p En cuanto a las metas se debe evitar que sean vagas, o que sean demasiado ambiciosas sin que exista un compromiso real para cumplirlas, y por ello deben ser realistas y ejecutables desde las perspectivas ambiental, técnica y financiera. Las metas deben ser cuantificables, siempre que sea posible, y tener escalas de tiempo. 
 
 
     p(data-aos="fade") “Los objetivos y metas deben ser propuestos por el generador de acuerdo con sus intereses y necesidades. Igualmente, se recomienda formular indicadores que permitan medir el avance en el cumplimiento de los objetivos y las metas propuestas”. (Universidad Pontificia Bolivariana y Área metropolitana del Valle de Aburrá, 2016, p.16) 

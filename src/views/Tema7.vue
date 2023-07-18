@@ -95,7 +95,7 @@
           p.mb-0 Nota. Manual para el manejo integral de residuos sólidos en el Valle de Aburrá. Área metropolitana del  Valle de Aburrá  (2016, p. 22) 
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-10
+      .col-md-11
         .titulo-sexto.color-acento-contenido.mt-4
           p.mb-0 #[b Figura 22.] Matriz de incompatibilidad de residuos químicos
         img(src='@/assets/curso/temas/tema7/fig24.png', alt='Matriz de incompatibilidad de residuos químicos')

@@ -588,10 +588,10 @@
     p.mb-5(data-aos="fade") Para los residuos no peligrosos su rotulación es colocar el nombre del residuo, quien lo genera, fecha de recolección y el logo de reciclaje; si es para reciclar y si es ordinario o común no se requiere de logo solo de la identificación del residuo, algunas veces en los rótulos se coloca el peso o volumen del residuo, si este no está en el rótulo debe estar en los registros de gestión de residuos, sea en el registro de recolección o de almacenamiento o de entrega de residuos para así llevar los indicadores de gestión de generación de residuos.
 
     .row.justify-content-center
-      .col-md-5(data-aos="fade-right")
+      .col-md-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.mb-0 #[b Figura 15.] Etiqueta
-        img(src='@/assets/curso/temas/tema5/fig17.png', alt='Etiqueta')
+        img(src='@/assets/curso/temas/tema5/fig17.svg', alt='Etiqueta')
         figcaption.mt-3
           p.mb-0 Nota. Procedimiento para la gestión y disposición de residuos sólidos y peligrosos. Universidad de los Andes (2012, p. 18) 
       

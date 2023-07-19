@@ -268,7 +268,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido
           p.mb-0 #[b Figura 7.] Código de colores en el gremio de la salud
-        img(src='@/assets/curso/temas/tema5/fig8.svg', alt='Código de colores en el gremio de la salud')
+        img(src='@/assets/curso/temas/tema5/fig7.svg', alt='Código de colores en el gremio de la salud')
         figcaption.bg-gray.mt-2
           p.mb-0 Nota. Resolución en proyecto 2 por la cual se adopta el manual para la gestión integral de residuos generados en la atención en salud y otras actividades, y se dictan otras disposiciones. Ministerio de salud y protección social (2020, p.10)  
 

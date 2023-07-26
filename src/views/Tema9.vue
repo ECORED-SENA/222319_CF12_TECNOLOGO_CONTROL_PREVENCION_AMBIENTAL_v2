@@ -22,10 +22,10 @@
     p.mb-4(data-aos="fade") Es obligatorio el uso de elementos de protección personal para las actividades de recolección de residuos y almacenamiento de residuos por el personal que realiza estas labores.
 
     .row.justify-content-center.mb-5
-      .col-md-10(data-aos="fade")
+      .col-lg-10(data-aos="fade")
         .titulo-sexto.color-acento-contenido
-            p.mb-0 #[b Tabla 5] Elementos de protección según actividad en residuos
-      .col-md-10.bg-blue4.py-3(data-aos="fade-down")
+            p.mb-0 #[b Tabla 6.] Elementos de protección según actividad en residuos
+      .col-lg-10.bg-blue4.py-3(data-aos="fade-down")
         .tabla-a.tema9-1
           table
             caption.bg-white.mt-2
@@ -37,58 +37,58 @@
                 th Gráfico
             tbody.bg-gray
               tr   
-                td.text-bold Recolección de residuos 
+                td.text-bold Recolección de residuos. 
                 td 
                   ul.lista-ul--color.color-primario.fa-ul
                     li.mb-1
                       i.fas.fa-check
-                      | Ropa de trabajo institucional
+                      | Ropa de trabajo institucional.
                     li.mb-1
                       i.fas.fa-check
-                      |  Delantal de caucho tipo industrial (opcional)
+                      |  Delantal de caucho tipo industrial (opcional).
                     li.mb-1
                       i.fas.fa-check
-                      |  Guantes de caucho tipo industrial
+                      |  Guantes de caucho tipo industrial.
                     li.mb-1
                       i.fas.fa-check
-                      |  Botas de caucho con suela antideslizante o botas de cuero antideslizante
+                      |  Botas de caucho con suela antideslizante o botas de cuero antideslizante.
                     li.mb-1
                       i.fas.fa-check
-                      |  Tapabocas (para no peligrosos)
+                      |  Tapabocas (para no peligrosos).
                     li.mb-1
                       i.fas.fa-check
-                      |  Tapabocas N95 (para peligrosos infecciosos)
+                      |  Tapabocas N95 (para peligrosos infecciosos).
                     li.mb-0
                       i.fas.fa-check
-                      |  Mascarilla de gases (para peligrosos res. Químicos)
+                      |  Mascarilla de gases (para peligrosos res. Químicos).
                 td 
                   img.mb-2(src='@/assets/curso/temas/tema9/tabl1.jpg', alt='Recolección de residuos')
                   p.mb-0.text-small Manejo de residuos hospitalarios (2010) Equipos de protección personal p.25
               tr 
-                td.text-bold Lavado del Cuarto de almacenamiento de residuos 
+                td.text-bold Lavado del Cuarto de almacenamiento de residuos.
                 td 
                   ul.lista-ul--color.color-primario.fa-ul
                     li.mb-1
                       i.fas.fa-check
-                      | Overol de color claro con manga larga antifluido
+                      | Overol de color claro con manga larga antifluido.
                     li.mb-1
                       i.fas.fa-check
-                      |  Delantal plástico de tipo industrial color claro y ajustado a la cintura (si es requerido o si no tiene el traje antifluido)
+                      |  Delantal plástico de tipo industrial color claro y ajustado a la cintura (si es requerido o si no tiene el traje antifluido).
                     li.mb-1
                       i.fas.fa-check
-                      |  Guantes de caucho tipo industrial color claro calibre 25 largo 20 
+                      |  Guantes de caucho tipo industrial color claro calibre 25 largo 20.
                     li.mb-1
                       i.fas.fa-check
-                      |  Protección ocular
+                      |  Protección ocular.
                     li.mb-1
                       i.fas.fa-check
-                      |  Mascarilla de alta eficiencia categoría N95% en filtración (CDC, NIOSH o mascarilla de gases)
+                      |  Mascarilla de alta eficiencia categoría N95% en filtración (CDC, NIOSH o mascarilla de gases).
                     li.mb-0
                       i.fas.fa-check
-                      |  Botas de caucho con suela antideslizante
+                      |  Botas de caucho con suela antideslizante.
                 td 
                   img.mb-2(src='@/assets/curso/temas/tema9/tabl2.jpg', alt='Lavado del Cuarto de almacenamiento de residuos')
-                  p.mb-0.text-small Universidad industrial de Santander (2009) Guía de manejo de residuos peligrosos en la sección servicios integrales de salud y desarrollo psicosocial.p.74  
+                  p.mb-0.text-small Universidad industrial de Santander (2009) Guía de manejo de residuos peligrosos en la sección servicios integrales de salud y desarrollo psicosocial. p.74  
 
 
     h3.subt.text-white.mb-4(data-aos="fade") Plan de contingencia
@@ -97,7 +97,7 @@
     p.mb-4(data-aos="fade") El Plan de contingencia debe incluir procedimientos generales de atención de emergencias y procedimientos específicos para cada escenario de riesgo identificado. 
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-10.bg-blue2.py-4
+      .col-lg-10.bg-blue2.py-4
         .row.align-items-center.ps-md-0
           .col-md-3.col-7.mb-3
             img(src='@/assets/curso/temas/tema9/img2.svg', alt='')
@@ -106,22 +106,22 @@
             ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
               li
                 i.fas.fa-check
-                | Análisis de riesgo
+                | Análisis de riesgo.
               li
                 i.fas.fa-check
-                | Identificación y caracterización de peligros y amenazas
+                | Identificación y caracterización de peligros y amenazas.
               li
                 i.fas.fa-check
-                | Análisis de vulnerabilidad por amenazas
+                | Análisis de vulnerabilidad por amenazas.
               li
                 i.fas.fa-check
-                | Definición de los escenarios de riesgo
+                | Definición de los escenarios de riesgo.
               li
                 i.fas.fa-check
-                | Organización del Plan de Emergencias
+                | Organización del Plan de Emergencias.
               li
                 i.fas.fa-check
-                | Puesta en marcha del Plan de Emergencias
+                | Puesta en marcha del Plan de Emergencias.
               li
                 i.fas.fa-check
                 | Responsables de la elaboración y puesta en marcha del plan de contingencia.
@@ -142,17 +142,17 @@
     p(data-aos="fade") Se entiende por peligro a una fuente o situación que tiene el potencial de causar daño en términos de lesión o enfermedad, daño a la propiedad, al ambiente de trabajo, al medio ambiente o una combinación de estos. Por otro lado, la amenaza se refiere a la probabilidad de que un fenómeno de origen natural o humano cause daño y genere pérdidas en un tiempo y lugar determinado.
 
     .row.align-items-center
-      .col-md-7.mb-4(data-aos="fade-right")
+      .col-lg-7.mb-4(data-aos="fade-right")
         p En la identificación de peligros, la organización debe realizar una observación y estudio detallado de los procesos, las actividades que realiza y su entorno, indicando cuáles son aquellas situaciones que pueden generar una emergencia. Una vez identificados los peligros, éstos deben ser analizados según su probabilidad de ocurrencia en términos de amenaza.
         p.bg-green.p-4 Para identificar los posibles peligros, se deben analizar y determinar aspectos como la combinación o mezcla de sustancias químicas y los residuos con características peligrosas, con el almacenamiento o transporte de gases tóxicos o líquidos corrosivos, la inflamabilidad de una sustancia, la presencia de materiales radiactivos, el deterioro de la vía, los cuales, pueden interactuar con peligros de origen natural y social, como por ejemplo, la presencia de una falla geológica, de ríos, de volcanes, las condiciones atmosféricas adversas en la zona, o las condiciones políticas y sociales de la región.
-      .col-md-5.mb-4(data-aos="fade-left")
+      .col-lg-5.col-md-7.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema9/img4.jpg', alt='')
 
     p(data-aos="fade") La probabilidad de ocurrencia de las amenazas relacionadas con el almacenamiento y transporte de sustancias químicas y residuos peligrosos, tales como la fuga de un gas tóxico o el derrame de un combustible, se pueden ver potenciadas por la probabilidad de amenazas de tipo natural o social, como por ejemplo el desbordamiento de un río, una erupción volcánica o un atentado terrorista.
     p.mb-4(data-aos="fade") En la Tabla se muestran algunas de las posibles amenazas que pueden afectar los componentes del Manejo Integral de Residuos Sólidos.
 
     .titulo-sexto.color-acento-contenido
-      p.mb-0 #[b Tabla 6]  Amenaza en las actividades de residuos
+      p.mb-0 #[b Tabla 7.] Amenaza en las actividades de residuos
     .tabla-a.tema9-2.text-center.mb-5
       table
         caption.mt-3
@@ -350,15 +350,15 @@
     h3.t-green.mb-4(data-aos="fade") Análisis de vulnerabilidad por amenaza
 
     .row.align-items-center
-      .col-md-7.mb-4(data-aos="fade-right")
+      .col-lg-7.mb-4(data-aos="fade-right")
         p El análisis de vulnerabilidad es el proceso por el cual se determina el nivel de exposición y predisposición a la pérdida de un elemento o grupo de elementos frente a una amenaza específica. El grado de vulnerabilidad de una empresa ante una amenaza determinada está directamente relacionado con su capacidad interna para prevenir o controlar los factores que originan el peligro, así como con su preparación para minimizar las consecuencias en caso de que ocurra un evento adverso.
-      .col-md-5.mb-4(data-aos="fade-left")
+      .col-lg-5.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema9/img5.jpg', alt='')
 
     .row.align-items-center
-      .col-md-5.mb-4(data-aos="fade-right")
+      .col-lg-5.d-none.d-lg-block.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema9/img6.jpg', alt='')
-      .col-md-7.mb-4(data-aos="fade-left")
+      .col-lg-7.mb-4(data-aos="fade-left")
         p.mb-4 La vulnerabilidad puede ser física o funcional dependiendo del tipo de estructura o de la capacidad de absorber la emergencia respectivamente. Para estimar la vulnerabilidad se debe:
         .row 
           .col-md-6
@@ -386,9 +386,9 @@
     p.mb-4(data-aos="fade") Esta matriz puede ser ampliada según el criterio de la empresa para lograr un mayor nivel de detalle.
 
     .row.justify-content-center.mb-5
-      .col-md-7
+      .col-lg-7
         .titulo-sexto.color-acento-contenido(data-aos="fade") 
-          p.mb-0 #[b Tabla 7] Valoración del riesgo 
+          p.mb-0 #[b Tabla 8.] Valoración del riesgo 
         .tabla-a.tema9.text-center.mb-4(data-aos="fade-down") 
           table
             caption.mt-2
@@ -429,9 +429,9 @@
     p.mb-4(data-aos="fade") Como se mencionó anteriormente, el análisis de riesgos es un requisito para la organización del Plan de Emergencias, ya que permite identificar los escenarios de riesgo. De esta manera, se facilita la proyección adecuada de las siguientes acciones:
 
     .row.align-items-center.mb-md-3
-      .col-md-5.mb-4(data-aos="fade-right")
+      .col-lg-5.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema9/img7.jpg', alt='')
-      .col-md-7.mb-4(data-aos="fade-left")
+      .col-lg-7.mb-4(data-aos="fade-left")
         .row.bg-yellow2.align-items-center.p-4
           .col-md-2.col-4.mb-3.mb-md-0
             img(src='@/assets/curso/temas/tema9/img8.svg', alt='')
@@ -457,9 +457,9 @@
     h3.t-green(data-aos="fade") Puesta en marcha y mantenimiento del Plan de Emergencias
 
     .row.align-items-center.mb-md-3
-      .col-md-6.mb-4(data-aos="fade-right")
+      .col-lg-6.mb-4(data-aos="fade-right")
         p El éxito de una operación de atención de eventos mayores depende de las acciones de respuesta previstas y desarrolladas en el Plan de Emergencias. De esta manera, para lograr los resultados esperados en el plan durante la ocurrencia de situaciones de emergencia, es necesario divulgarlo debidamente dentro de la organización, e integrarlo a otros planes locales y regionales, así como a otras entidades que deberán actuar conjuntamente en la respuesta a la emergencia. Además de la debida divulgación, la implementación del Plan está relacionada con la disponibilidad de los recursos humanos, además de los materiales necesarios y compatibles con la gravedad de los posibles eventos que se atenderán.
-      .col-md-6.mb-4(data-aos="fade-left")
+      .col-lg-6.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema9/img9.jpg', alt='')
 
 

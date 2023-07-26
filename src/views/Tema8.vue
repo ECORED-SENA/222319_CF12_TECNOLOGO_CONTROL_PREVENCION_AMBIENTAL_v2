@@ -19,28 +19,30 @@
 
     .row.mb-4
       h4.t-green.mb-4 Plaga
-      .col-md-7.mb-4.mb-md-0(data-aos="fade-right")
+      .col-lg-7.col-md-7.mb-4.mb-md-0(data-aos="fade-right")
         p Una plaga es cualquier organismo vivo que 
           b cause daño o molestias, o que transmita o provoque una enfermedad. 
           | Las plagas pueden ser animales, plantas o bacterias. Una plaga también puede ser cualquier cosa que simplemente se encuentre en un lugar no deseado, por ejemplo, el trébol en una zona de juegos cubierta por césped. Las ratas, los ratones, las cucarachas, las moscas domésticas, los mapaches, las ardillas, las hormigas, la maleza y las bacterias son diferentes tipos de plagas. Antes de intentar eliminarlas, es importante asegurarse de que realmente se trate de una plaga, ya que no todas las plagas son vectores que causen enfermedades. Algunas plagas simplemente se encuentran en un lugar donde no deberían estar.
         p Es importante tener en cuenta que existen algunas plagas que no se deben matar ni utilizar pesticidas para su exterminio, como los murciélagos, las palomas y las ardillas, mientras que otras sí se pueden eliminar con pesticidas, como las cucarachas y las ratas.
-      .col-md-4.bg-white.pt-2(data-aos="fade-left")
+      .col-lg-4.col-md-5.bg-white.pt-2(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-0
-          p.mb-0 #[b Figura 23.] Ejemplo de plagas
+          p.mb-0 #[b Figura 22.] Ejemplo de plagas
         img(src='@/assets/curso/temas/tema8/tab-fig25.jpg', alt='Ejemplo de plagas')
 
 
     .row.mb-4
       h4.t-green.mb-4 Pesticida
-      .col-md-7.mb-4.mb-md-0(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
         p La función principal de los pesticidas es exterminar o controlar organismos vivos como maleza, insectos, arañas y otros seres no deseados en un establecimiento. Ejemplos de pesticidas incluyen los aerosoles para cucarachas y hormigas, las bombas para pulgas, los raticidas, los herbicidas y las bolas de naftalina. Es importante tener en cuenta que todos los pesticidas son potencialmente dañinos. Por lo tanto, se recomienda utilizarlos solo como último recurso. Es preferible evitar el uso de pesticidas en aerosol y nebulizadores (bombas contra insectos) debido a los riesgos para la salud.
-      .col-md-4(data-aos="fade-left")
+      .col-lg-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema8/tab-img2.png' alt='')
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       h4.t-green.mb-4 Tipo de pesticidas
       p Existen muchos tipos de pesticidas y marcas comerciales en el mercado para exterminar plagas específicas. Por ejemplo, un herbicida que mata la maleza es un pesticida. Aquí encontrará una lista de pesticidas y el tipo de plagas que exterminan
-      .col-md-7.mb-4.mb-md-3
+      .col-lg-7.mb-4.mb-md-3
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 #[b Tabla 5.] Pesticidas y plagas que exterminan 
         .tabla-a.tema8-1
           table
             caption 
@@ -52,28 +54,28 @@
             tbody.bg-white
               tr   
                 td 
-                  p.mb-2 1. Insecticidas
-                  p.mb-2 2. Herbicidas
-                  p.mb-2 3. Veneno para matar roedores
-                  p.mb-2 4. Fungicidas
-                  p.mb-2 5. Bactericidas
-                  p.mb-2 6. Alguicidas
-                  p.mb-2 7. Repelentes de insectos
-                  p.mb-2 8. Molusquicidas  
+                  p.mb-2 1. Insecticidas.
+                  p.mb-2 2. Herbicidas.
+                  p.mb-2 3. Veneno para matar roedores.
+                  p.mb-2 4. Fungicidas.
+                  p.mb-2 5. Bactericidas.
+                  p.mb-2 6. Alguicidas.
+                  p.mb-2 7. Repelentes de insectos.
+                  p.mb-2 8. Molusquicidas.
                 td 
-                  p.mb-2 Insectos y plagas relacionadas como las arañas
-                  p.mb-2 Maleza y otras plantas no deseadas
+                  p.mb-2 Insectos y plagas relacionadas como las arañas.
+                  p.mb-2 Maleza y otras plantas no deseadas.
                   p.mb-2 Ratones, ratas y otros roedores.
-                  p.mb-2 Moho y otros hongos
-                  p.mb-2 Bacterias
-                  p.mb-2 Algas (en piscinas y otras fuentes de agua)
-                  p.mb-2 Mosquitos y otros insectos o garrapatas
+                  p.mb-2 Moho y otros hongos.
+                  p.mb-2 Bacterias.
+                  p.mb-2 Algas (en piscinas y otras fuentes de agua).
+                  p.mb-2 Mosquitos y otros insectos o garrapatas.
                   p.mb-2 Caracoles y babosas.
 
     .row.mb-4
-      .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema8/tab-img4.jpg' alt='')
-      .col-md-7.mb-4.mb-md-0(data-aos="fade-left")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-left")
         p Si las plagas se vuelven un problema, necesitará controlarlas o exterminarlas, fomente el uso de materiales y métodos para tratar las plagas que maximicen la seguridad y reduzcan la exposición al personal a productos químicos dañinos. Para controlar las plagas, elija métodos que sean: 
         ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
           li.mb-1
@@ -87,13 +89,13 @@
             | Los más fáciles de implementar y que sean seguros y efectivos. 
           li.mb-1
             i.fas.fa-check
-            | Los más económicos a corto y largo plazo. u adecuados para la plaga en particular y que coincidan con el estado del ciclo de vida de la plaga cuando está en una etapa más vulnerable.  
+            | Los más económicos a corto y largo plazo u adecuados para la plaga en particular y que coincidan con el estado del ciclo de vida de la plaga cuando está en una etapa más vulnerable.  
           li
             i.fas.fa-check
             | Productos adecuados para el control de la plaga en particular, considerando el estado del ciclo de vida.
 
     .row.mb-5
-      .col-md-7(data-aos="fade-right")
+      .col-lg-7(data-aos="fade-right")
         p A menudo se pueden controlar las plagas siguiendo pasos libres de químicos como:
         ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
           li.mb-1
@@ -116,8 +118,8 @@
                 | Trampas para ratones y ratas que se cierran mecánicamente. Colóquelas en los lugares donde los roedores puedan encontrarlas.
               li.mb-0
                 i.fas.fa-check
-                |	“Matamoscas y trampas de luz ultravioleta para moscas. “Trampas cónicas para moscas o avispas de chaqueta amarilla. “Trampas de caja para zorrillos, mapaches y comadrejas (zarigüeyas) Si los métodos libres de químicos no dan resultados, use el pesticida menos dañino para tratar el problema de plaga. Los pesticidas menos dañinos son: cebos que se colocan en lugares fijos (no rociados o esparcidos)  efectivos contra plagas específicas. Son de baja toxicidad aguda y crónica para las personas, los animales y el medio ambiente. se biodegradan rápidamente. Exterminan una categoría limitada de plagas específicas. tienen poco o ningún impacto en otros organismos, especialmente en los predadores de plagas.
-      .col-md-5(data-aos="fade-left")
+                |	Matamoscas y trampas de luz ultravioleta para moscas. Trampas cónicas para moscas o avispas de chaqueta amarilla. Trampas de caja para zorrillos, mapaches y comadrejas (zarigüeyas) Si los métodos libres de químicos no dan resultados, use el pesticida menos dañino para tratar el problema de plaga. Los pesticidas menos dañinos son: cebos que se colocan en lugares fijos (no rociados o esparcidos)  efectivos contra plagas específicas. Son de baja toxicidad aguda y crónica para las personas, los animales y el medio ambiente se biodegradan rápidamente. Exterminan una categoría limitada de plagas específicas tienen poco o ningún impacto en otros organismos, especialmente en los predadores de plagas.
+      .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema8/tab-img3.png' alt='')
       
         
@@ -153,7 +155,7 @@
     h3.subt.text-white.mb-4(data-aos="fade") Modelo genérico de limpieza y desinfección manual
 
     .row.align-items-center.mb-5
-      .col-md-7.mb-4(data-aos="fade-right")
+      .col-lg-7.mb-4(data-aos="fade-right")
         p 
           b La limpieza 
           | es una tarea fundamental en cualquier establecimiento donde se manipulen alimentos. Esta consiste en la eliminación gruesa de la suciedad, para lo cual se utilizan técnicas como el raspado, frotado, barrido o pre-enjuagado de las superficies. Posteriormente se realiza la 
@@ -164,7 +166,7 @@
         p Para garantizar una higiene completa, es necesario realizar 
           b la desinfección, 
           | que implica la destrucción de los microorganismos mediante el uso de un desinfectante adecuado, dejando actuar el tiempo necesario según corresponda. Finalmente, se realiza un enjuague final para eliminar los restos del desinfectante y se procede al secado para eliminar cualquier resto de agua. Es importante asegurarse de que todas estas etapas se lleven a cabo de manera rigurosa para garantizar la seguridad alimentaria.
-      .col-md-5.mb-4(data-aos="fade-left")
+      .col-lg-5.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema8/img2.png', alt='')
 
 
@@ -172,7 +174,7 @@
     h3.subt.text-white.mb-4(data-aos="fade") Descontaminación y limpieza cuarto de almacenamiento de residuos
     p.mb-4(data-aos="fade") La descontaminación y limpieza del cuarto de almacenamiento de residuos es una tarea importante en la gestión de residuos, ya que permite prevenir la propagación de infecciones y enfermedades. A continuación, se presentan algunos pasos recomendados para descontaminar y limpiar el cuarto de almacenamiento de residuos:
 
-    SlyderF.mb-5.text-center(columnas="col-md-6 col-lg-4" data-aos="fade-down")
+    SlyderF.mb-5.text-center.d-lg-flex.d-none(columnas="col-md-6 col-lg-4" data-aos="fade-down")
       .tarjeta.bg-green5.p-4
         h5.mb-3 Antes de la descontaminación
         p.text-center Si dentro del cuarto se encuentran residuos, el procedimiento de descontaminación limpieza y desinfección no debe llevarse a cabo hasta que el gestor autorizado los haya retirado.  
@@ -198,11 +200,45 @@
         h5.mb-3 Revisión
         p.text-center Después del enjuague se debe hacer una revisión visual para verificar que ha sido eliminada toda la suciedad. En caso de necesitar se debe hacer de nuevo un lavado con jabón hasta que la superficie quede completamente limpia.
 
+    .row.d-flex.d-lg-none(data-aos="fade-down")
+      .col-md-6.mb-3
+        .tarjeta.bg-green5.p-4.h-100.text-center
+          h5.mb-3 Antes de la descontaminación
+          p.text-center Si dentro del cuarto se encuentran residuos, el procedimiento de descontaminación limpieza y desinfección no debe llevarse a cabo hasta que el gestor autorizado los haya retirado.  
+      .col-md-6.mb-3
+        .tarjeta.bg-green5.p-4.h-100.text-center
+          h5.mb-3 Descontaminación
+          p.text-center Descontaminar el cuarto (techo, paredes y piso) y los contenedores con hipoclorito a 5.000 ppm durante 20 minutos inmediatamente después de que el gestor autorizado retire los residuos el día establecido de cada semana.  
+      .col-md-6.mb-3
+        .tarjeta.bg-green5.p-4.h-100.text-center
+          h5.mb-3 Enjuague de contenedores y cuartos
+          p.text-center El cuarto y contenedores deben enjuagarse con suficiente agua potable, proveniente de una manguera con suficiente presión, de modo que el agua la cubra totalmente. En caso de no poder utilizar una manguera, el agua debe estar contenida en recipientes como baldes completamente limpios.
+      .col-md-6.mb-3
+        .tarjeta.bg-green5.p-4.h-100.text-center
+          h5.mb-3 Lavado de las superficies
+          p.text-center Enjabonar las superficies a limpiar del cuarto (techo, paredes y piso) así como los contenedores y traje de protección personal, esparciendo la solución de jabón con un cepillo suave para barrer. Utilice otro cepillo pequeño para el traje de protección personal.
+      .col-md-6.mb-3
+        .tarjeta.bg-green5.p-4.h-100.text-center
+          h5.mb-3 Uso del detergente
+          p.text-center El jabón o detergente no debe aplicarse directamente sobre las superficies a limpiar, sino que éste debe disolverse previamente en agua potable.
+      .col-md-6.mb-3
+        .tarjeta.bg-green5.p-4.h-100.text-center
+          h5.mb-3 Eliminación de residuos
+          p.text-center Una vez que todo lo anteriormente descrito esté en contacto con el jabón diluido, se procede a refregar las superficies eliminando completamente todos los residuos que puedan estar presentes en ellas. Muchas veces estos residuos no son muy visibles, por esta razón la operación debe ser hecha concienzudamente de modo que toda el área que está siendo tratada quede completamente limpia.
+      .col-md-6.mb-3
+        .tarjeta.bg-green5.p-4.h-100.text-center
+          h5.mb-3 Enjuague
+          p.text-center La superficie se deja en contacto con el jabón por un periodo de cinco minutos. Realizar el enjuague final con suficiente agua potable, proveniente de una manguera con presión, de modo que el agua arrastre totalmente el jabón. No utilice esponjas o telas en el proceso de enjuague, ya que pueden contener jabón o estar sucias.
+      .col-md-6.mb-3
+        .tarjeta.bg-green5.p-4.h-100.text-center
+          h5.mb-3 Revisión
+          p.text-center Después del enjuague se debe hacer una revisión visual para verificar que ha sido eliminada toda la suciedad. En caso de necesitar se debe hacer de nuevo un lavado con jabón hasta que la superficie quede completamente limpia.
+
 
     p.mb-4(data-aos="fade") Las características más importantes en un desinfectante son:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-10.bg-blue2.py-4
+      .col-lg-10.bg-blue2.py-4
         .row.align-items-center.ps-md-0
           .col-md-3.col-6.mb-3.mb-md-0
             img(src='@/assets/curso/temas/tema8/img3.svg', alt='')
@@ -245,11 +281,11 @@
     p.mb-4(data-aos="fade") Es el desinfectante usado por excelencia en los procesos de desinfección en recipientes y cuartos de almacenamiento de residuos.
 
     .row.align-items-center.mb-md-3
-      .col-md-8.mb-4(data-aos="fade-right")
+      .col-lg-8.mb-4(data-aos="fade-right")
         ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
           li
             i.fas.fa-check
-            | El cloro es un desinfectante universal, activo contra todos los microrganismos.
+            | El cloro es un desinfectante universal, activo contra todos los microorganismos.
           li
             i.fas.fa-check
             | En general se utiliza en forma de hipoclorito sódico, excelente desinfectante, bactericida, virucida. Es inestable y disminuye su eficiencia en presencia de luz, calor y largo tiempo de preparación, por lo tanto, la presentación comercial indicada son envases oscuros y no transparentes.
@@ -258,8 +294,8 @@
             | Es altamente corrosivo por lo tanto no debe usarse por más de treinta minutos, ni repetidamente en material de acero inoxidable.
           li
             i.fas.fa-check
-            | Es un químico económico, asequible, de gran aplicabilidad y se consigue comercialmente en forma líquida a una concentración entre el 4% y el 6%:
-      .col-md-4.mb-4(data-aos="fade-left")
+            | Es un químico económico, asequible, de gran aplicabilidad y se consigue comercialmente en forma líquida a una concentración entre el 4% y el 6%.
+      .col-lg-4.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema8/img4.png', alt='')
 
 
@@ -274,7 +310,7 @@
             
 
     .row.align-items-center.mb-md-3
-      .col-md-9.mb-4(data-aos="fade-right")
+      .col-lg-9.mb-4(data-aos="fade-right")
         p.mb-4 La preparación de Hipoclorito de Sodio es: 
         ul.lista-ul--color.color-primario.ps-3.ps-md-4.fa-ul
           li
@@ -286,11 +322,11 @@
           li
             i.fas.fa-check
             | También se debe considerar el volumen que se desea preparar.
-      .col-md-3.mb-4(data-aos="fade-left")
+      .col-md-3.d-none.d-lg-block.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema8/fig26.png', alt='Ejemplo de preparación de dosificación')
         
     .row
-      .col-md-6.mb-4.mx-0.px-0(data-aos="fade-right")
+      .col-lg-6.mb-4.mx-0.px-0(data-aos="fade-right")
         .bg-gray.p-4.px-md-5.h-100
           h4.t-green EJERCICIO:
           p Se desea preparar una solución al 0.25% (2500 ppm) porque se va a emplear para hacer el procedimiento de desinfección del lavado rutinario de un área crítica que puede ser el cuarto de almacenamiento de residuos.
@@ -301,7 +337,7 @@
             li 
               span 2)
               | Determine la cantidad que necesite preparar de esta dilución. Para efectos de este ejemplo, se necesita preparar 1 litro a 2500 ppm.
-      .col-md-6.mb-4.mx-0.px-0.h-100(data-aos="fade-left")
+      .col-lg-6.mb-4.mx-0.px-0.h-100(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema8/img6.png', alt='')    
 
 
@@ -312,21 +348,21 @@
           .col-md-12
             h4.t-green.mb-5(data-aos="fade") Información que se requiere para hacer los cálculos: 
 
-          .col-md-7.text-center.bg-green5.p-4.mb-4(data-aos="fade-right")
+          .col-lg-7.col-md-7.text-center.bg-green5.p-4.mb-4(data-aos="fade-right")
             h5.mb-1 Concentración deseada (Cd) 
             p 2500 ppm (o sea que cada 100 mL de solución contiene 0.25 gramos de hipoclorito)
             h5.mb-1 Concentración conocida (Cc)
             p 50000 ppm (Solución de hipoclorito de sodio al 5%) 
             h5.mb-1 Volumen de la solución de la concentración deseada a preparar (Vd)
             p.mb-0 1000 mL (1 Iitro de solución de 2500 ppm)
-          .col-md-3.mb-4(data-aos="fade-left")
+          .col-lg-3.col-md-5.mb-4(data-aos="fade-left")
             img(src='@/assets/curso/temas/tema8/img7.svg', alt='')      
 
           .col-md-12.mb-mb-3(data-aos="fade")
             p.mb-0 Entonces debo utilizar la siguiente fórmula para saber que (¿V?):
             p.mb-4 Volumen en ml (mililitros) de la solución conocida al 5% (50000 ppm) que debe mezclarse con agua desionizada o destilada. 
 
-          .col-md-8.tarjeta.bg-white.p-4.mb-4(data-aos="fade-down")
+          .col-lg-8.tarjeta.bg-white.p-4.mb-4(data-aos="fade-down")
             p.text-center.mb-4 ¿Entonces debo utilizar la siguiente fórmula para saber que Cd x Vd= Cc x V?:
             .row.justify-content-center
               .col-md-5
@@ -337,9 +373,9 @@
             p Entonces se debe agregar 50ml de Hipoclorito de sodio al 5% (50000 ppm) a 950 ml de agua desionizada o destilada para obtener un 1 litro de solución de 2500 ppm.
 
           .row.justify-content-center
-            .col-md-5.col-lg-4(data-aos="fade-right")
+            .col-md-9.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema8/fig27.svg', alt='')
-            .col-md-7(data-aos="fade-left")
+            .col-lg-7(data-aos="fade-left")
               .bg-white.tarjeta.box-shadow.p-4.mb-5
                 SlyderA(tipo="b")
                   .row.px-md-4
@@ -415,7 +451,7 @@
       | que se cometen en la limpieza y desinfección que pueden comprometer la efectividad del proceso y, en algunos casos, incluso aumentar el riesgo de infección. Algunos de los errores más comunes son:
 
     .row.align-items-center.justify-content-center.bg-green8.p-4.mb-4
-      .col-md-7(data-aos="fade-right")
+      .col-lg-7(data-aos="fade-right")
         ul.lista-ul--color.color-primario.fa-ul
           li.mb-0
             i.fas.fa-check
@@ -447,17 +483,17 @@
           li.mb-0
             i.fas.fa-check
             | Personal no entrenado.
-      .col-md-5(data-aos="fade-left")
+      .col-lg-5(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema8/img8.png', alt='')  
 
 
-    p.mb-4(data-aos="fade") Al utilizar desinfectantes, es importante seguir algunas recomendaciones para garantizar la eficacia del proceso y evitar riesgos para la salud. Algunas de los consejos más importantes son:
+    p.mb-4(data-aos="fade") Al utilizar desinfectantes, es importante seguir algunas recomendaciones para garantizar la eficacia del proceso y evitar riesgos para la salud. Algunos de los consejos más importantes son:
 
     .bg-green5.p-4
       .row 
-        .col-md-5.mb-3.mb-md-0
+        .col-lg-5.col-md-5.mb-3.mb-lg-0
           img(src='@/assets/curso/temas/tema8/img9.png', alt='') 
-        .col-md-7
+        .col-lg-7
           ol.lista-ol.fa-ul
             li 
               span.fw-bold 1.

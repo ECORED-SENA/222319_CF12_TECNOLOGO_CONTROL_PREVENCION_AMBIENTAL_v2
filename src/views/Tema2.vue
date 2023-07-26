@@ -9,9 +9,9 @@
 
 
     .row.align-items-center
-      .col-md-5.mb-4(data-aos="fade-right")
+      .col-lg-5.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/img.png', alt='')
-      .col-md-7.mb-4(data-aos="fade-left")
+      .col-lg-7.mb-4(data-aos="fade-left")
         p De acuerdo con lo identificado en el diagnóstico realizado por la organización, se debe formular un compromiso organizacional conocido como Política Ambiental y unos objetivos y metas orientados hacia la prevención de la generación y hacia la minimización de los residuos que debe verse reflejado en la política ambiental de la organización.
         p.bg-green.p-4 Se recomienda plantear unos objetivos congruentes con las condiciones, recursos y necesidades que posea el generador, procurando que sean coherentes y alcanzables.
         p En cuanto a las metas se debe evitar que sean vagas, o que sean demasiado ambiciosas sin que exista un compromiso real para cumplirlas, y por ello deben ser realistas y ejecutables desde las perspectivas ambiental, técnica y financiera. Las metas deben ser cuantificables, siempre que sea posible, y tener escalas de tiempo. 
@@ -47,17 +47,17 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
 
-          .col-md-6.mb-4(data-aos="fade-right")
+          .col-lg-6.mb-4(data-aos="fade-right")
             p La empresa PAMPA LTDA fabricante y comercializadora de productos alimenticios, está comprometida con la protección del medio ambiente y el desarrollo sostenible en todas sus operaciones. Para dar cumplimiento a este compromiso, así como los requisitos que exige la legislación colombiana vigente, nos esforzaremos por eliminar las prácticas empresariales que puedan producir impactos negativos en el medio ambiente y disminución y aprovechamiento de los residuos y vertimientos. La empresa proveerá y mantendrá un ambiente de trabajo sano y seguro, en la medida que se considere razonablemente posible, según se indique en las prácticas aceptadas para el desarrollo sostenible. Promoverá programas de mejoramiento continuo y desarrollo sostenible, generando una imagen positiva a la sociedad, brindando servicios oportunos que garanticen la confianza y el bienestar de sus socios, clientes, proveedores y colaboradores. Confiamos en que todos, gerencia, personal directivo y operativo, se asociarán en el compromiso personal hacia el cuidado del medio ambiente como una forma de vida. Esta política será revisada anualmente, de acuerdo con los resultados obtenidos en la evaluación de los indicadores del sistema de Gestión Ambiental.  (PAMPA, 2016, p.1) 
-          .col-md-5.mb-4(data-aos="fade-left")
+          .col-lg-5.mb-4(data-aos="fade-left")
             img(src='@/assets/curso/temas/tema2/img2.jpg', alt='PAMPA LTDA')
 
     p.mb-4(data-aos="fade") A continuación, encontrara un ejemplo de objetivos, metas e indicadores de un proyecto de residuos: 
 
     .row.justify-content-center
-      .col-md-10(data-aos="fade-down")
+      .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 1] Ejemplo de objetivo, meta e indicador en residuos
+          p.mb-0 #[b Tabla 1.] Ejemplo de objetivo, meta e indicador en residuos
         .tabla-a.tema2
           table
             caption.bg-gray.mt-2

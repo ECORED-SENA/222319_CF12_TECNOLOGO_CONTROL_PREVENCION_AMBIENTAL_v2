@@ -15,9 +15,9 @@
     p.mb-5(data-aos="fade") En la siguiente tabla se presentan algunas alternativas de manejo que pueden aplicarse a los residuos:
 
     .row.justify-content-center
-      .col-md-10
+      .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade") 
-          p.mb-0 #[b Tabla 8] Técnicas de manejo por tipo de residuo
+          p.mb-0 #[b Tabla 9.] Técnicas de manejo por tipo de residuo
         .tabla-a.tema10(data-aos="fade-down") 
           table
             caption.bg-gray.mt-2
@@ -28,20 +28,20 @@
                 th Técnicas de manejo
             tbody
               tr   
-                td Ordinarios e inertes
-                td Relleno sanitario
+                td Ordinarios e inertes.
+                td Relleno sanitario.
               tr  
-                td Biodegradables
+                td Biodegradables.
                 td Compostaje, lombricultura, alimentación de animales, etc.
               tr  
-                td Recicables: plástico, vidrio, cartón y similares, chatarra
+                td Reciclables: plástico, vidrio, cartón y similares, chatarra.
                 td Reuso, reciclaje, etc.
               tr  
-                td Peligrosos: con algunas restricciones dependiendo de sus características
-                td Aprovechamiento, Incineración, Rellenos de seguridad, otras tecnologías de tratamiento (como térmicos, fisicoquímico, etc) 
+                td Peligrosos: con algunas restricciones dependiendo de sus características.
+                td Aprovechamiento, Incineración, Rellenos de seguridad, otras tecnologías de tratamiento (como térmicos, fisicoquímico, etc.).
               tr  
-                td Escombros
-                td Aprovechamiento
+                td Escombros.
+                td Aprovechamiento.
 
 
 </template>

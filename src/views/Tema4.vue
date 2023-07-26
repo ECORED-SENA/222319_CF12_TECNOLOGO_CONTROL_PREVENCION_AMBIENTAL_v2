@@ -63,7 +63,7 @@
     p.mb-4(data-aos="fade") Para estas actividades en las organizaciones generan estrategias de prevención y minimización llamados programas o por medio de campañas, si por medio de programas ambientales muchas veces llevan objetivo, meta e indicador específico para saber la eficacia del programa, como:
     
     .row.mb-4
-      .col-md-6.h-100(data-aos="fade-right")
+      .col-lg-6.h-100(data-aos="fade-right")
         .bg-green8.px-4.py-5
           ul.lista-ul--color.color-primario.fa-ul
             li 
@@ -82,12 +82,12 @@
             li 
               i.fas.fa-check
               | Programa de ahorro de recursos de productos en general teniendo en cuenta la normativa obligatoria o tendencias de disminución de algún tipo de bien que puede ser un potencial residuo y que puede ser prevenido.
-      .col-md-6.h-100(data-aos="fade-left")
+      .col-lg-6.h-100(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema4/img3.png', alt='')
 
 
     .row.align-items-center.p-2.bg-blue2.pt-4
-      .col-lg-5(data-aos="fade-right")
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         img(src="@/assets/curso/temas/intro/img2.png", alt="")
       .col-lg-7(data-aos="fade-left")
         p.mb-4 En el material complementario puede revisar el video “Campaña cero papel SENA”, para conocer más del tema.
